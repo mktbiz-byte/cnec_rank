@@ -1,0 +1,2853 @@
+[
+  {
+    "id": 3559,
+    "name": "에이프릴스킨 수분 토너 인텐시브",
+    "brand": "에이프릴스킨",
+    "category": "스킨케어",
+    "subcategory": "토너",
+    "price": 15901,
+    "rating": 4.1,
+    "reviewCount": 3675,
+    "salesCount": 99985,
+    "searchVolume": 11866,
+    "image": "/images/products/3559.jpg",
+    "keyIngredients": [
+      "판테놀",
+      "펩타이드"
+    ],
+    "skinConcerns": [
+      "주름"
+    ],
+    "description": "주름 고민을 위한 토너 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 4234,
+    "name": "정샘물 수분 크림 프레시",
+    "brand": "정샘물",
+    "category": "스킨케어",
+    "subcategory": "크림",
+    "price": 42752,
+    "rating": 4.2,
+    "reviewCount": 25045,
+    "salesCount": 99985,
+    "searchVolume": 27639,
+    "image": "/images/products/4234.jpg",
+    "keyIngredients": [
+      "펩타이드",
+      "비타민C",
+      "아데노신",
+      "트라넥삼산",
+      "나이아신아마이드"
+    ],
+    "skinConcerns": [
+      "브라이트닝"
+    ],
+    "description": "브라이트닝 고민을 위한 크림 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 768,
+    "name": "젤라쿠아 립스틱 퓨어",
+    "brand": "젤라쿠아",
+    "category": "메이크업",
+    "subcategory": "립스틱",
+    "price": 27917,
+    "rating": 4.6,
+    "reviewCount": 42493,
+    "salesCount": 99940,
+    "searchVolume": 27077,
+    "image": "/images/products/768.jpg",
+    "keyIngredients": [
+      "아데노신",
+      "AHA",
+      "히알루론산",
+      "PHA"
+    ],
+    "skinConcerns": [
+      "수분부족"
+    ],
+    "description": "수분부족 고민을 위한 립스틱 제품",
+    "trending": true,
+    "isNew": false,
+    "discount": 20,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 3417,
+    "name": "젤라쿠아 아이섀도우 팔레트 퓨어",
+    "brand": "젤라쿠아",
+    "category": "메이크업",
+    "subcategory": "아이섀도우",
+    "price": 27481,
+    "rating": 4.7,
+    "reviewCount": 35913,
+    "salesCount": 99938,
+    "searchVolume": 24297,
+    "image": "/images/products/3417.jpg",
+    "keyIngredients": [
+      "BHA",
+      "AHA",
+      "히알루론산",
+      "베타글루칸"
+    ],
+    "skinConcerns": [
+      "색소침착",
+      "여드름"
+    ],
+    "description": "색소침착, 여드름 고민을 위한 아이섀도우 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 20,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 1909,
+    "name": "닥터엘시아 수분 토너",
+    "brand": "닥터엘시아",
+    "category": "스킨케어",
+    "subcategory": "토너",
+    "price": 29757,
+    "rating": 4.7,
+    "reviewCount": 46752,
+    "salesCount": 99919,
+    "searchVolume": 41404,
+    "image": "/images/products/1909.jpg",
+    "keyIngredients": [
+      "베타글루칸",
+      "AHA",
+      "레티놀"
+    ],
+    "skinConcerns": [
+      "브라이트닝",
+      "모공"
+    ],
+    "description": "브라이트닝, 모공 고민을 위한 토너 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 15,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 507,
+    "name": "비오템 수면 마스크",
+    "brand": "비오템",
+    "category": "스킨케어",
+    "subcategory": "마스크팩",
+    "price": 43506,
+    "rating": 4.4,
+    "reviewCount": 28648,
+    "salesCount": 99904,
+    "searchVolume": 12416,
+    "image": "/images/products/507.jpg",
+    "keyIngredients": [
+      "나이아신아마이드",
+      "프로폴리스"
+    ],
+    "skinConcerns": [
+      "탄력",
+      "여드름"
+    ],
+    "description": "탄력, 여드름 고민을 위한 마스크팩 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 1173,
+    "name": "유세린 각질 제거 토너 퓨어",
+    "brand": "유세린",
+    "category": "스킨케어",
+    "subcategory": "토너",
+    "price": 43515,
+    "rating": 4.6,
+    "reviewCount": 41336,
+    "salesCount": 99896,
+    "searchVolume": 3663,
+    "image": "/images/products/1173.jpg",
+    "keyIngredients": [
+      "프로폴리스",
+      "베타글루칸"
+    ],
+    "skinConcerns": [
+      "색소침착"
+    ],
+    "description": "색소침착 고민을 위한 토너 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 575,
+    "name": "에이프릴스킨 립스틱 리얼",
+    "brand": "에이프릴스킨",
+    "category": "메이크업",
+    "subcategory": "립스틱",
+    "price": 25604,
+    "rating": 4.6,
+    "reviewCount": 24675,
+    "salesCount": 99855,
+    "searchVolume": 26608,
+    "image": "/images/products/575.jpg",
+    "keyIngredients": [
+      "세라마이드",
+      "프로폴리스",
+      "레티놀",
+      "콜라겐"
+    ],
+    "skinConcerns": [
+      "주름"
+    ],
+    "description": "주름 고민을 위한 립스틱 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 25,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 2245,
+    "name": "더페이스샵 클렌징 오일 글로우",
+    "brand": "더페이스샵",
+    "category": "스킨케어",
+    "subcategory": "클렌징",
+    "price": 31096,
+    "rating": 4.0,
+    "reviewCount": 30748,
+    "salesCount": 99844,
+    "searchVolume": 46281,
+    "image": "/images/products/2245.jpg",
+    "keyIngredients": [
+      "베타글루칸",
+      "BHA",
+      "나이아신아마이드",
+      "PDRN",
+      "세라마이드"
+    ],
+    "skinConcerns": [
+      "주름",
+      "색소침착",
+      "수분부족"
+    ],
+    "description": "주름, 색소침착, 수분부족 고민을 위한 클렌징 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 20,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 2392,
+    "name": "태오앤더 진정 크림 퓨어",
+    "brand": "태오앤더",
+    "category": "스킨케어",
+    "subcategory": "크림",
+    "price": 37178,
+    "rating": 4.6,
+    "reviewCount": 16237,
+    "salesCount": 99843,
+    "searchVolume": 6568,
+    "image": "/images/products/2392.jpg",
+    "keyIngredients": [
+      "센텔라",
+      "펩타이드"
+    ],
+    "skinConcerns": [
+      "주름"
+    ],
+    "description": "주름 고민을 위한 크림 제품",
+    "trending": false,
+    "isNew": true,
+    "discount": 30,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 2857,
+    "name": "일소 선크림 리얼",
+    "brand": "일소",
+    "category": "스킨케어",
+    "subcategory": "선케어",
+    "price": 16955,
+    "rating": 4.2,
+    "reviewCount": 24221,
+    "salesCount": 99838,
+    "searchVolume": 45822,
+    "image": "/images/products/2857.jpg",
+    "keyIngredients": [
+      "나이아신아마이드",
+      "콜라겐",
+      "베타글루칸",
+      "프로폴리스"
+    ],
+    "skinConcerns": [
+      "탄력",
+      "민감성",
+      "색소침착"
+    ],
+    "description": "탄력, 민감성, 색소침착 고민을 위한 선케어 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 2670,
+    "name": "에뛰드 선 세럼 인텐시브",
+    "brand": "에뛰드",
+    "category": "스킨케어",
+    "subcategory": "선케어",
+    "price": 39580,
+    "rating": 4.4,
+    "reviewCount": 26250,
+    "salesCount": 99822,
+    "searchVolume": 3795,
+    "image": "/images/products/2670.jpg",
+    "keyIngredients": [
+      "펩타이드",
+      "PHA",
+      "트라넥삼산",
+      "베타글루칸",
+      "센텔라"
+    ],
+    "skinConcerns": [
+      "여드름"
+    ],
+    "description": "여드름 고민을 위한 선케어 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 3369,
+    "name": "피지오겔 클렌징 폼",
+    "brand": "피지오겔",
+    "category": "스킨케어",
+    "subcategory": "클렌징",
+    "price": 19380,
+    "rating": 4.2,
+    "reviewCount": 47897,
+    "salesCount": 99822,
+    "searchVolume": 17703,
+    "image": "/images/products/3369.jpg",
+    "keyIngredients": [
+      "나이아신아마이드",
+      "베타글루칸",
+      "PHA",
+      "콜라겐"
+    ],
+    "skinConcerns": [
+      "주름",
+      "민감성"
+    ],
+    "description": "주름, 민감성 고민을 위한 클렌징 제품",
+    "trending": true,
+    "isNew": true,
+    "discount": 10,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 3932,
+    "name": "헤라 쿠션 프로",
+    "brand": "헤라",
+    "category": "메이크업",
+    "subcategory": "쿠션",
+    "price": 40223,
+    "rating": 4.6,
+    "reviewCount": 16592,
+    "salesCount": 99818,
+    "searchVolume": 45021,
+    "image": "/images/products/3932.jpg",
+    "keyIngredients": [
+      "베타글루칸",
+      "아데노신",
+      "세라마이드",
+      "AHA"
+    ],
+    "skinConcerns": [
+      "수분부족",
+      "브라이트닝",
+      "민감성"
+    ],
+    "description": "수분부족, 브라이트닝, 민감성 고민을 위한 쿠션 제품",
+    "trending": true,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 4256,
+    "name": "라로슈포제 립틴트 프로",
+    "brand": "라로슈포제",
+    "category": "메이크업",
+    "subcategory": "립틴트",
+    "price": 24479,
+    "rating": 4.2,
+    "reviewCount": 35131,
+    "salesCount": 99816,
+    "searchVolume": 36724,
+    "image": "/images/products/4256.jpg",
+    "keyIngredients": [
+      "알부틴",
+      "나이아신아마이드",
+      "아데노신",
+      "프로폴리스"
+    ],
+    "skinConcerns": [
+      "주름",
+      "여드름"
+    ],
+    "description": "주름, 여드름 고민을 위한 립틴트 제품",
+    "trending": true,
+    "isNew": false,
+    "discount": 25,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 2349,
+    "name": "클리오 파운데이션 리프팅",
+    "brand": "클리오",
+    "category": "메이크업",
+    "subcategory": "파운데이션",
+    "price": 36474,
+    "rating": 4.2,
+    "reviewCount": 34465,
+    "salesCount": 99769,
+    "searchVolume": 33191,
+    "image": "/images/products/2349.jpg",
+    "keyIngredients": [
+      "프로폴리스",
+      "레티놀",
+      "PDRN",
+      "센텔라"
+    ],
+    "skinConcerns": [
+      "모공",
+      "여드름",
+      "민감성"
+    ],
+    "description": "모공, 여드름, 민감성 고민을 위한 파운데이션 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 2446,
+    "name": "롬앤 진정 토너",
+    "brand": "롬앤",
+    "category": "스킨케어",
+    "subcategory": "토너",
+    "price": 19921,
+    "rating": 4.3,
+    "reviewCount": 13419,
+    "salesCount": 99754,
+    "searchVolume": 18315,
+    "image": "/images/products/2446.jpg",
+    "keyIngredients": [
+      "펩타이드",
+      "비타민C",
+      "나이아신아마이드",
+      "트라넥삼산",
+      "히알루론산"
+    ],
+    "skinConcerns": [
+      "여드름",
+      "수분부족",
+      "탄력"
+    ],
+    "description": "여드름, 수분부족, 탄력 고민을 위한 토너 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 261,
+    "name": "메디힐 레티놀 세럼 인텐시브",
+    "brand": "메디힐",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 30885,
+    "rating": 4.4,
+    "reviewCount": 3301,
+    "salesCount": 99744,
+    "searchVolume": 19799,
+    "image": "/images/products/261.jpg",
+    "keyIngredients": [
+      "BHA",
+      "히알루론산",
+      "펩타이드",
+      "아데노신",
+      "판테놀"
+    ],
+    "skinConcerns": [
+      "수분부족"
+    ],
+    "description": "수분부족 고민을 위한 세럼/앰플 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 2495,
+    "name": "젤라쿠아 나이아신아마이드 세럼 퓨어",
+    "brand": "젤라쿠아",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 41721,
+    "rating": 4.5,
+    "reviewCount": 26566,
+    "salesCount": 99735,
+    "searchVolume": 14906,
+    "image": "/images/products/2495.jpg",
+    "keyIngredients": [
+      "나이아신아마이드",
+      "BHA",
+      "PHA",
+      "트라넥삼산",
+      "펩타이드"
+    ],
+    "skinConcerns": [
+      "탄력"
+    ],
+    "description": "탄력 고민을 위한 세럼/앰플 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 30,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 3814,
+    "name": "뷰티오브조선 진정 토너 인텐시브",
+    "brand": "뷰티오브조선",
+    "category": "스킨케어",
+    "subcategory": "토너",
+    "price": 32627,
+    "rating": 4.7,
+    "reviewCount": 30305,
+    "salesCount": 99727,
+    "searchVolume": 31152,
+    "image": "/images/products/3814.jpg",
+    "keyIngredients": [
+      "트라넥삼산",
+      "판테놀",
+      "센텔라",
+      "세라마이드"
+    ],
+    "skinConcerns": [
+      "모공",
+      "수분부족"
+    ],
+    "description": "모공, 수분부족 고민을 위한 토너 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 15,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 5029,
+    "name": "모렛 PDRN 앰플 리프팅",
+    "brand": "모렛",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 47471,
+    "rating": 5.0,
+    "reviewCount": 16616,
+    "salesCount": 99643,
+    "searchVolume": 45433,
+    "image": "/images/products/5029.jpg",
+    "keyIngredients": [
+      "AHA",
+      "세라마이드",
+      "비타민C",
+      "아데노신",
+      "프로폴리스"
+    ],
+    "skinConcerns": [
+      "민감성"
+    ],
+    "description": "민감성 고민을 위한 세럼/앰플 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 30,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 2645,
+    "name": "라보에이치 나이아신아마이드 세럼 인텐시브",
+    "brand": "라보에이치",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 41705,
+    "rating": 5.0,
+    "reviewCount": 6217,
+    "salesCount": 99625,
+    "searchVolume": 46878,
+    "image": "/images/products/2645.jpg",
+    "keyIngredients": [
+      "나이아신아마이드",
+      "베타글루칸",
+      "비타민C"
+    ],
+    "skinConcerns": [
+      "브라이트닝"
+    ],
+    "description": "브라이트닝 고민을 위한 세럼/앰플 제품",
+    "trending": true,
+    "isNew": true,
+    "discount": 15,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 3114,
+    "name": "센텔리안24 나이아신아마이드 세럼 인텐시브",
+    "brand": "센텔리안24",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 44845,
+    "rating": 4.8,
+    "reviewCount": 24019,
+    "salesCount": 99616,
+    "searchVolume": 37154,
+    "image": "/images/products/3114.jpg",
+    "keyIngredients": [
+      "센텔라",
+      "프로폴리스"
+    ],
+    "skinConcerns": [
+      "주름",
+      "모공",
+      "탄력"
+    ],
+    "description": "주름, 모공, 탄력 고민을 위한 세럼/앰플 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 5466,
+    "name": "정샘물 클렌징 밤 프로",
+    "brand": "정샘물",
+    "category": "스킨케어",
+    "subcategory": "클렌징",
+    "price": 36645,
+    "rating": 4.6,
+    "reviewCount": 32863,
+    "salesCount": 99602,
+    "searchVolume": 21125,
+    "image": "/images/products/5466.jpg",
+    "keyIngredients": [
+      "알부틴",
+      "아데노신",
+      "콜라겐",
+      "히알루론산",
+      "AHA"
+    ],
+    "skinConcerns": [
+      "수분부족",
+      "탄력",
+      "민감성"
+    ],
+    "description": "수분부족, 탄력, 민감성 고민을 위한 클렌징 제품",
+    "trending": false,
+    "isNew": true,
+    "discount": 10,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 1363,
+    "name": "에이프릴스킨 PDRN 앰플 프로",
+    "brand": "에이프릴스킨",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 74773,
+    "rating": 4.5,
+    "reviewCount": 41389,
+    "salesCount": 99601,
+    "searchVolume": 40849,
+    "image": "/images/products/1363.jpg",
+    "keyIngredients": [
+      "레티놀",
+      "비타민C"
+    ],
+    "skinConcerns": [
+      "여드름"
+    ],
+    "description": "여드름 고민을 위한 세럼/앰플 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 15,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 5221,
+    "name": "클레어스 비타민C 세럼 리얼",
+    "brand": "클레어스",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 31120,
+    "rating": 4.4,
+    "reviewCount": 28408,
+    "salesCount": 99597,
+    "searchVolume": 2244,
+    "image": "/images/products/5221.jpg",
+    "keyIngredients": [
+      "트라넥삼산",
+      "비타민C",
+      "알부틴",
+      "AHA",
+      "판테놀"
+    ],
+    "skinConcerns": [
+      "민감성",
+      "주름",
+      "여드름"
+    ],
+    "description": "민감성, 주름, 여드름 고민을 위한 세럼/앰플 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 30,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 4724,
+    "name": "뷰티오브조선 히알루론산 세럼",
+    "brand": "뷰티오브조선",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 35927,
+    "rating": 4.1,
+    "reviewCount": 34012,
+    "salesCount": 99574,
+    "searchVolume": 18909,
+    "image": "/images/products/4724.jpg",
+    "keyIngredients": [
+      "비타민C",
+      "레티놀",
+      "BHA",
+      "AHA"
+    ],
+    "skinConcerns": [
+      "브라이트닝"
+    ],
+    "description": "브라이트닝 고민을 위한 세럼/앰플 제품",
+    "trending": false,
+    "isNew": true,
+    "discount": 25,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 940,
+    "name": "3CE 수분 토너 리프팅",
+    "brand": "3CE",
+    "category": "스킨케어",
+    "subcategory": "토너",
+    "price": 31796,
+    "rating": 4.4,
+    "reviewCount": 45731,
+    "salesCount": 99562,
+    "searchVolume": 33906,
+    "image": "/images/products/940.jpg",
+    "keyIngredients": [
+      "AHA",
+      "아데노신",
+      "판테놀"
+    ],
+    "skinConcerns": [
+      "모공"
+    ],
+    "description": "모공 고민을 위한 토너 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 1633,
+    "name": "클리오 각질 제거 토너 퓨어",
+    "brand": "클리오",
+    "category": "스킨케어",
+    "subcategory": "토너",
+    "price": 40980,
+    "rating": 4.9,
+    "reviewCount": 255,
+    "salesCount": 99553,
+    "searchVolume": 19591,
+    "image": "/images/products/1633.jpg",
+    "keyIngredients": [
+      "아데노신",
+      "판테놀",
+      "베타글루칸",
+      "비타민C",
+      "BHA"
+    ],
+    "skinConcerns": [
+      "탄력"
+    ],
+    "description": "탄력 고민을 위한 토너 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 20,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 1521,
+    "name": "유노브 레티놀 세럼 딥",
+    "brand": "유노브",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 49340,
+    "rating": 4.9,
+    "reviewCount": 33784,
+    "salesCount": 99528,
+    "searchVolume": 41528,
+    "image": "/images/products/1521.jpg",
+    "keyIngredients": [
+      "비타민C",
+      "판테놀",
+      "트라넥삼산"
+    ],
+    "skinConcerns": [
+      "여드름",
+      "모공",
+      "브라이트닝"
+    ],
+    "description": "여드름, 모공, 브라이트닝 고민을 위한 세럼/앰플 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 2944,
+    "name": "젤라쿠아 아이섀도우 팔레트 프로",
+    "brand": "젤라쿠아",
+    "category": "메이크업",
+    "subcategory": "아이섀도우",
+    "price": 29945,
+    "rating": 4.1,
+    "reviewCount": 45035,
+    "salesCount": 99518,
+    "searchVolume": 45551,
+    "image": "/images/products/2944.jpg",
+    "keyIngredients": [
+      "센텔라",
+      "PHA",
+      "아데노신",
+      "베타글루칸"
+    ],
+    "skinConcerns": [
+      "여드름",
+      "브라이트닝",
+      "수분부족"
+    ],
+    "description": "여드름, 브라이트닝, 수분부족 고민을 위한 아이섀도우 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 25,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 5370,
+    "name": "구달 나이아신아마이드 세럼 프로",
+    "brand": "구달",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 22060,
+    "rating": 4.3,
+    "reviewCount": 36503,
+    "salesCount": 99515,
+    "searchVolume": 33278,
+    "image": "/images/products/5370.jpg",
+    "keyIngredients": [
+      "베타글루칸",
+      "알부틴",
+      "나이아신아마이드",
+      "레티놀"
+    ],
+    "skinConcerns": [
+      "모공"
+    ],
+    "description": "모공 고민을 위한 세럼/앰플 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 20,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 4483,
+    "name": "이니스프리 선 세럼 딥",
+    "brand": "이니스프리",
+    "category": "스킨케어",
+    "subcategory": "선케어",
+    "price": 31686,
+    "rating": 4.3,
+    "reviewCount": 10500,
+    "salesCount": 99489,
+    "searchVolume": 13577,
+    "image": "/images/products/4483.jpg",
+    "keyIngredients": [
+      "트라넥삼산",
+      "아데노신",
+      "펩타이드"
+    ],
+    "skinConcerns": [
+      "수분부족",
+      "탄력"
+    ],
+    "description": "수분부족, 탄력 고민을 위한 선케어 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 15,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 1515,
+    "name": "세라베 수분 토너 플러스",
+    "brand": "세라베",
+    "category": "스킨케어",
+    "subcategory": "토너",
+    "price": 21792,
+    "rating": 4.7,
+    "reviewCount": 18328,
+    "salesCount": 99478,
+    "searchVolume": 8560,
+    "image": "/images/products/1515.jpg",
+    "keyIngredients": [
+      "PHA",
+      "AHA",
+      "센텔라",
+      "나이아신아마이드"
+    ],
+    "skinConcerns": [
+      "브라이트닝",
+      "민감성"
+    ],
+    "description": "브라이트닝, 민감성 고민을 위한 토너 제품",
+    "trending": false,
+    "isNew": true,
+    "discount": 20,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 1723,
+    "name": "비플레인 각질 제거 토너 리얼",
+    "brand": "비플레인",
+    "category": "스킨케어",
+    "subcategory": "토너",
+    "price": 30979,
+    "rating": 4.5,
+    "reviewCount": 37166,
+    "salesCount": 99471,
+    "searchVolume": 3206,
+    "image": "/images/products/1723.jpg",
+    "keyIngredients": [
+      "BHA",
+      "나이아신아마이드",
+      "비타민C",
+      "프로폴리스",
+      "PDRN"
+    ],
+    "skinConcerns": [
+      "색소침착"
+    ],
+    "description": "색소침착 고민을 위한 토너 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 4275,
+    "name": "모렛 선 세럼 인텐시브",
+    "brand": "모렛",
+    "category": "스킨케어",
+    "subcategory": "선케어",
+    "price": 35736,
+    "rating": 4.7,
+    "reviewCount": 18496,
+    "salesCount": 99470,
+    "searchVolume": 4518,
+    "image": "/images/products/4275.jpg",
+    "keyIngredients": [
+      "레티놀",
+      "PDRN"
+    ],
+    "skinConcerns": [
+      "브라이트닝",
+      "주름"
+    ],
+    "description": "브라이트닝, 주름 고민을 위한 선케어 제품",
+    "trending": true,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 4050,
+    "name": "메디힐 클렌징 밤 딥",
+    "brand": "메디힐",
+    "category": "스킨케어",
+    "subcategory": "클렌징",
+    "price": 34678,
+    "rating": 4.1,
+    "reviewCount": 43265,
+    "salesCount": 99447,
+    "searchVolume": 26346,
+    "image": "/images/products/4050.jpg",
+    "keyIngredients": [
+      "베타글루칸",
+      "레티놀"
+    ],
+    "skinConcerns": [
+      "색소침착",
+      "모공"
+    ],
+    "description": "색소침착, 모공 고민을 위한 클렌징 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 25,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 1853,
+    "name": "웨이크메이크 립스틱 퓨어",
+    "brand": "웨이크메이크",
+    "category": "메이크업",
+    "subcategory": "립스틱",
+    "price": 31944,
+    "rating": 4.3,
+    "reviewCount": 17031,
+    "salesCount": 99427,
+    "searchVolume": 6879,
+    "image": "/images/products/1853.jpg",
+    "keyIngredients": [
+      "PHA",
+      "히알루론산",
+      "레티놀",
+      "세라마이드"
+    ],
+    "skinConcerns": [
+      "색소침착"
+    ],
+    "description": "색소침착 고민을 위한 립스틱 제품",
+    "trending": false,
+    "isNew": true,
+    "discount": 15,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 28,
+    "name": "에이프릴스킨 재생 크림 퓨어",
+    "brand": "에이프릴스킨",
+    "category": "스킨케어",
+    "subcategory": "크림",
+    "price": 52828,
+    "rating": 4.8,
+    "reviewCount": 45426,
+    "salesCount": 99401,
+    "searchVolume": 24424,
+    "image": "/images/products/28.jpg",
+    "keyIngredients": [
+      "센텔라",
+      "알부틴",
+      "베타글루칸"
+    ],
+    "skinConcerns": [
+      "수분부족",
+      "모공",
+      "주름"
+    ],
+    "description": "수분부족, 모공, 주름 고민을 위한 크림 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 25,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 1010,
+    "name": "일소 클렌징 오일 프레시",
+    "brand": "일소",
+    "category": "스킨케어",
+    "subcategory": "클렌징",
+    "price": 31764,
+    "rating": 4.9,
+    "reviewCount": 19838,
+    "salesCount": 99372,
+    "searchVolume": 16558,
+    "image": "/images/products/1010.jpg",
+    "keyIngredients": [
+      "PDRN",
+      "BHA"
+    ],
+    "skinConcerns": [
+      "민감성",
+      "브라이트닝"
+    ],
+    "description": "민감성, 브라이트닝 고민을 위한 클렌징 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 1671,
+    "name": "코스알엑스 파운데이션 딥",
+    "brand": "코스알엑스",
+    "category": "메이크업",
+    "subcategory": "파운데이션",
+    "price": 48405,
+    "rating": 4.5,
+    "reviewCount": 36100,
+    "salesCount": 99356,
+    "searchVolume": 6667,
+    "image": "/images/products/1671.jpg",
+    "keyIngredients": [
+      "알부틴",
+      "센텔라"
+    ],
+    "skinConcerns": [
+      "색소침착"
+    ],
+    "description": "색소침착 고민을 위한 파운데이션 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 30,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 3673,
+    "name": "려 나이아신아마이드 세럼 딥",
+    "brand": "려",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 40405,
+    "rating": 4.9,
+    "reviewCount": 4414,
+    "salesCount": 99351,
+    "searchVolume": 41375,
+    "image": "/images/products/3673.jpg",
+    "keyIngredients": [
+      "프로폴리스",
+      "펩타이드",
+      "판테놀"
+    ],
+    "skinConcerns": [
+      "여드름"
+    ],
+    "description": "여드름 고민을 위한 세럼/앰플 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 2457,
+    "name": "토리든 파운데이션 리얼",
+    "brand": "토리든",
+    "category": "메이크업",
+    "subcategory": "파운데이션",
+    "price": 53439,
+    "rating": 4.9,
+    "reviewCount": 32281,
+    "salesCount": 99323,
+    "searchVolume": 20367,
+    "image": "/images/products/2457.jpg",
+    "keyIngredients": [
+      "나이아신아마이드",
+      "알부틴",
+      "레티놀",
+      "트라넥삼산",
+      "히알루론산"
+    ],
+    "skinConcerns": [
+      "브라이트닝",
+      "탄력"
+    ],
+    "description": "브라이트닝, 탄력 고민을 위한 파운데이션 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 3749,
+    "name": "일소 재생 크림 글로우",
+    "brand": "일소",
+    "category": "스킨케어",
+    "subcategory": "크림",
+    "price": 57287,
+    "rating": 4.8,
+    "reviewCount": 749,
+    "salesCount": 99319,
+    "searchVolume": 8455,
+    "image": "/images/products/3749.jpg",
+    "keyIngredients": [
+      "판테놀",
+      "세라마이드"
+    ],
+    "skinConcerns": [
+      "색소침착"
+    ],
+    "description": "색소침착 고민을 위한 크림 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 15,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 4776,
+    "name": "닥터엘시아 아이섀도우 팔레트 프레시",
+    "brand": "닥터엘시아",
+    "category": "메이크업",
+    "subcategory": "아이섀도우",
+    "price": 26179,
+    "rating": 4.7,
+    "reviewCount": 35110,
+    "salesCount": 99312,
+    "searchVolume": 21983,
+    "image": "/images/products/4776.jpg",
+    "keyIngredients": [
+      "아데노신",
+      "레티놀"
+    ],
+    "skinConcerns": [
+      "민감성"
+    ],
+    "description": "민감성 고민을 위한 아이섀도우 제품",
+    "trending": true,
+    "isNew": false,
+    "discount": 15,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 712,
+    "name": "웨이크메이크 PDRN 앰플 리프팅",
+    "brand": "웨이크메이크",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 49332,
+    "rating": 4.5,
+    "reviewCount": 45228,
+    "salesCount": 99297,
+    "searchVolume": 9093,
+    "image": "/images/products/712.jpg",
+    "keyIngredients": [
+      "세라마이드",
+      "BHA"
+    ],
+    "skinConcerns": [
+      "브라이트닝"
+    ],
+    "description": "브라이트닝 고민을 위한 세럼/앰플 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 25,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 2437,
+    "name": "센카 선 세럼 인텐시브",
+    "brand": "센카",
+    "category": "스킨케어",
+    "subcategory": "선케어",
+    "price": 30591,
+    "rating": 4.5,
+    "reviewCount": 26000,
+    "salesCount": 99267,
+    "searchVolume": 12341,
+    "image": "/images/products/2437.jpg",
+    "keyIngredients": [
+      "나이아신아마이드",
+      "레티놀",
+      "펩타이드"
+    ],
+    "skinConcerns": [
+      "주름",
+      "색소침착"
+    ],
+    "description": "주름, 색소침착 고민을 위한 선케어 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 3403,
+    "name": "넘버즈인 히알루론산 세럼 퓨어",
+    "brand": "넘버즈인",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 47788,
+    "rating": 4.6,
+    "reviewCount": 45402,
+    "salesCount": 99247,
+    "searchVolume": 19161,
+    "image": "/images/products/3403.jpg",
+    "keyIngredients": [
+      "PDRN",
+      "베타글루칸",
+      "PHA",
+      "레티놀",
+      "비타민C"
+    ],
+    "skinConcerns": [
+      "모공",
+      "민감성"
+    ],
+    "description": "모공, 민감성 고민을 위한 세럼/앰플 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 25,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 4823,
+    "name": "클리오 수분 토너 리프팅",
+    "brand": "클리오",
+    "category": "스킨케어",
+    "subcategory": "토너",
+    "price": 21435,
+    "rating": 4.2,
+    "reviewCount": 46548,
+    "salesCount": 99176,
+    "searchVolume": 19102,
+    "image": "/images/products/4823.jpg",
+    "keyIngredients": [
+      "PHA",
+      "히알루론산",
+      "BHA",
+      "판테놀",
+      "아데노신"
+    ],
+    "skinConcerns": [
+      "민감성",
+      "브라이트닝"
+    ],
+    "description": "민감성, 브라이트닝 고민을 위한 토너 제품",
+    "trending": true,
+    "isNew": false,
+    "discount": 10,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 3168,
+    "name": "웨이크메이크 진정 크림 리프팅",
+    "brand": "웨이크메이크",
+    "category": "스킨케어",
+    "subcategory": "크림",
+    "price": 39528,
+    "rating": 4.7,
+    "reviewCount": 22416,
+    "salesCount": 99135,
+    "searchVolume": 22354,
+    "image": "/images/products/3168.jpg",
+    "keyIngredients": [
+      "판테놀",
+      "BHA",
+      "센텔라",
+      "아데노신"
+    ],
+    "skinConcerns": [
+      "탄력",
+      "민감성",
+      "색소침착"
+    ],
+    "description": "탄력, 민감성, 색소침착 고민을 위한 크림 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 25,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 234,
+    "name": "페리페라 선 세럼 퓨어",
+    "brand": "페리페라",
+    "category": "스킨케어",
+    "subcategory": "선케어",
+    "price": 39076,
+    "rating": 4.1,
+    "reviewCount": 41910,
+    "salesCount": 99124,
+    "searchVolume": 39757,
+    "image": "/images/products/234.jpg",
+    "keyIngredients": [
+      "베타글루칸",
+      "레티놀",
+      "펩타이드"
+    ],
+    "skinConcerns": [
+      "탄력",
+      "여드름"
+    ],
+    "description": "탄력, 여드름 고민을 위한 선케어 제품",
+    "trending": false,
+    "isNew": true,
+    "discount": 15,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 4661,
+    "name": "토니모리 아이섀도우 팔레트 프로",
+    "brand": "토니모리",
+    "category": "메이크업",
+    "subcategory": "아이섀도우",
+    "price": 26274,
+    "rating": 4.2,
+    "reviewCount": 11742,
+    "salesCount": 99119,
+    "searchVolume": 18132,
+    "image": "/images/products/4661.jpg",
+    "keyIngredients": [
+      "AHA",
+      "세라마이드",
+      "PHA"
+    ],
+    "skinConcerns": [
+      "브라이트닝",
+      "수분부족",
+      "주름"
+    ],
+    "description": "브라이트닝, 수분부족, 주름 고민을 위한 아이섀도우 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 25,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 5095,
+    "name": "센텔리안24 PDRN 앰플 플러스",
+    "brand": "센텔리안24",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 73228,
+    "rating": 5.0,
+    "reviewCount": 12113,
+    "salesCount": 99068,
+    "searchVolume": 43865,
+    "image": "/images/products/5095.jpg",
+    "keyIngredients": [
+      "알부틴",
+      "아데노신"
+    ],
+    "skinConcerns": [
+      "주름"
+    ],
+    "description": "주름 고민을 위한 세럼/앰플 제품",
+    "trending": true,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 5126,
+    "name": "후 클렌징 오일 인텐시브",
+    "brand": "후",
+    "category": "스킨케어",
+    "subcategory": "클렌징",
+    "price": 32972,
+    "rating": 4.2,
+    "reviewCount": 16734,
+    "salesCount": 99060,
+    "searchVolume": 42369,
+    "image": "/images/products/5126.jpg",
+    "keyIngredients": [
+      "베타글루칸",
+      "펩타이드",
+      "트라넥삼산",
+      "AHA",
+      "알부틴"
+    ],
+    "skinConcerns": [
+      "탄력"
+    ],
+    "description": "탄력 고민을 위한 클렌징 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 20,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 1418,
+    "name": "에뛰드 클렌징 오일 플러스",
+    "brand": "에뛰드",
+    "category": "스킨케어",
+    "subcategory": "클렌징",
+    "price": 20257,
+    "rating": 4.9,
+    "reviewCount": 46940,
+    "salesCount": 99027,
+    "searchVolume": 39279,
+    "image": "/images/products/1418.jpg",
+    "keyIngredients": [
+      "프로폴리스",
+      "아데노신"
+    ],
+    "skinConcerns": [
+      "색소침착",
+      "탄력"
+    ],
+    "description": "색소침착, 탄력 고민을 위한 클렌징 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 20,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 3994,
+    "name": "굿달 클렌징 오일 프로",
+    "brand": "굿달",
+    "category": "스킨케어",
+    "subcategory": "클렌징",
+    "price": 26774,
+    "rating": 4.8,
+    "reviewCount": 44037,
+    "salesCount": 99016,
+    "searchVolume": 43286,
+    "image": "/images/products/3994.jpg",
+    "keyIngredients": [
+      "판테놀",
+      "AHA",
+      "펩타이드",
+      "PDRN"
+    ],
+    "skinConcerns": [
+      "브라이트닝",
+      "여드름",
+      "탄력"
+    ],
+    "description": "브라이트닝, 여드름, 탄력 고민을 위한 클렌징 제품",
+    "trending": true,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 4969,
+    "name": "더페이스샵 선크림 딥",
+    "brand": "더페이스샵",
+    "category": "스킨케어",
+    "subcategory": "선케어",
+    "price": 21656,
+    "rating": 4.2,
+    "reviewCount": 27430,
+    "salesCount": 99006,
+    "searchVolume": 10473,
+    "image": "/images/products/4969.jpg",
+    "keyIngredients": [
+      "레티놀",
+      "아데노신",
+      "트라넥삼산",
+      "프로폴리스",
+      "베타글루칸"
+    ],
+    "skinConcerns": [
+      "여드름"
+    ],
+    "description": "여드름 고민을 위한 선케어 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 30,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 3895,
+    "name": "토리든 수분 토너 인텐시브",
+    "brand": "토리든",
+    "category": "스킨케어",
+    "subcategory": "토너",
+    "price": 22120,
+    "rating": 4.1,
+    "reviewCount": 3102,
+    "salesCount": 98977,
+    "searchVolume": 32091,
+    "image": "/images/products/3895.jpg",
+    "keyIngredients": [
+      "펩타이드",
+      "프로폴리스"
+    ],
+    "skinConcerns": [
+      "여드름"
+    ],
+    "description": "여드름 고민을 위한 토너 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 1166,
+    "name": "닥터지 파운데이션 딥",
+    "brand": "닥터지",
+    "category": "메이크업",
+    "subcategory": "파운데이션",
+    "price": 59794,
+    "rating": 4.9,
+    "reviewCount": 44488,
+    "salesCount": 98953,
+    "searchVolume": 11029,
+    "image": "/images/products/1166.jpg",
+    "keyIngredients": [
+      "센텔라",
+      "AHA",
+      "비타민C",
+      "세라마이드"
+    ],
+    "skinConcerns": [
+      "탄력",
+      "민감성",
+      "브라이트닝"
+    ],
+    "description": "탄력, 민감성, 브라이트닝 고민을 위한 파운데이션 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 10,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 3693,
+    "name": "유세린 진정 토너 딥",
+    "brand": "유세린",
+    "category": "스킨케어",
+    "subcategory": "토너",
+    "price": 36608,
+    "rating": 4.1,
+    "reviewCount": 18653,
+    "salesCount": 98951,
+    "searchVolume": 20111,
+    "image": "/images/products/3693.jpg",
+    "keyIngredients": [
+      "판테놀",
+      "알부틴",
+      "세라마이드",
+      "PDRN"
+    ],
+    "skinConcerns": [
+      "주름",
+      "탄력",
+      "모공"
+    ],
+    "description": "주름, 탄력, 모공 고민을 위한 토너 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 3071,
+    "name": "이니스프리 시트 마스크 딥",
+    "brand": "이니스프리",
+    "category": "스킨케어",
+    "subcategory": "마스크팩",
+    "price": 3877,
+    "rating": 4.7,
+    "reviewCount": 22747,
+    "salesCount": 98893,
+    "searchVolume": 30013,
+    "image": "/images/products/3071.jpg",
+    "keyIngredients": [
+      "히알루론산",
+      "BHA",
+      "AHA",
+      "아데노신",
+      "베타글루칸"
+    ],
+    "skinConcerns": [
+      "수분부족"
+    ],
+    "description": "수분부족 고민을 위한 마스크팩 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 4045,
+    "name": "네이처리퍼블릭 선 세럼 인텐시브",
+    "brand": "네이처리퍼블릭",
+    "category": "스킨케어",
+    "subcategory": "선케어",
+    "price": 30494,
+    "rating": 4.8,
+    "reviewCount": 11794,
+    "salesCount": 98866,
+    "searchVolume": 4510,
+    "image": "/images/products/4045.jpg",
+    "keyIngredients": [
+      "BHA",
+      "AHA",
+      "판테놀",
+      "프로폴리스",
+      "트라넥삼산"
+    ],
+    "skinConcerns": [
+      "여드름",
+      "탄력",
+      "수분부족"
+    ],
+    "description": "여드름, 탄력, 수분부족 고민을 위한 선케어 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 2009,
+    "name": "홀리카홀리카 클렌징 폼 프레시",
+    "brand": "홀리카홀리카",
+    "category": "스킨케어",
+    "subcategory": "클렌징",
+    "price": 20767,
+    "rating": 4.5,
+    "reviewCount": 34686,
+    "salesCount": 98846,
+    "searchVolume": 20353,
+    "image": "/images/products/2009.jpg",
+    "keyIngredients": [
+      "센텔라",
+      "프로폴리스",
+      "AHA"
+    ],
+    "skinConcerns": [
+      "브라이트닝",
+      "여드름"
+    ],
+    "description": "브라이트닝, 여드름 고민을 위한 클렌징 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 15,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 309,
+    "name": "세라베 각질 제거 토너",
+    "brand": "세라베",
+    "category": "스킨케어",
+    "subcategory": "토너",
+    "price": 23045,
+    "rating": 4.5,
+    "reviewCount": 1884,
+    "salesCount": 98843,
+    "searchVolume": 10223,
+    "image": "/images/products/309.jpg",
+    "keyIngredients": [
+      "PHA",
+      "콜라겐"
+    ],
+    "skinConcerns": [
+      "주름",
+      "색소침착",
+      "탄력"
+    ],
+    "description": "주름, 색소침착, 탄력 고민을 위한 토너 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 10,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 2350,
+    "name": "토니모리 클렌징 오일 리프팅",
+    "brand": "토니모리",
+    "category": "스킨케어",
+    "subcategory": "클렌징",
+    "price": 26814,
+    "rating": 4.8,
+    "reviewCount": 24237,
+    "salesCount": 98838,
+    "searchVolume": 22206,
+    "image": "/images/products/2350.jpg",
+    "keyIngredients": [
+      "PDRN",
+      "레티놀",
+      "프로폴리스",
+      "판테놀"
+    ],
+    "skinConcerns": [
+      "탄력",
+      "여드름"
+    ],
+    "description": "탄력, 여드름 고민을 위한 클렌징 제품",
+    "trending": false,
+    "isNew": true,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 2271,
+    "name": "아이오페 PDRN 앰플 딥",
+    "brand": "아이오페",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 47902,
+    "rating": 4.3,
+    "reviewCount": 46259,
+    "salesCount": 98837,
+    "searchVolume": 31454,
+    "image": "/images/products/2271.jpg",
+    "keyIngredients": [
+      "PHA",
+      "BHA",
+      "레티놀",
+      "알부틴"
+    ],
+    "skinConcerns": [
+      "색소침착",
+      "수분부족",
+      "탄력"
+    ],
+    "description": "색소침착, 수분부족, 탄력 고민을 위한 세럼/앰플 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 25,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 1247,
+    "name": "센카 클렌징 오일 플러스",
+    "brand": "센카",
+    "category": "스킨케어",
+    "subcategory": "클렌징",
+    "price": 19504,
+    "rating": 4.9,
+    "reviewCount": 10796,
+    "salesCount": 98810,
+    "searchVolume": 9311,
+    "image": "/images/products/1247.jpg",
+    "keyIngredients": [
+      "아데노신",
+      "나이아신아마이드",
+      "PHA"
+    ],
+    "skinConcerns": [
+      "브라이트닝"
+    ],
+    "description": "브라이트닝 고민을 위한 클렌징 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 4421,
+    "name": "메디앤서 레티놀 세럼 리프팅",
+    "brand": "메디앤서",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 44799,
+    "rating": 4.5,
+    "reviewCount": 27466,
+    "salesCount": 98804,
+    "searchVolume": 15468,
+    "image": "/images/products/4421.jpg",
+    "keyIngredients": [
+      "판테놀",
+      "PHA",
+      "레티놀"
+    ],
+    "skinConcerns": [
+      "민감성"
+    ],
+    "description": "민감성 고민을 위한 세럼/앰플 제품",
+    "trending": false,
+    "isNew": true,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 4305,
+    "name": "라쉼 파운데이션 프레시",
+    "brand": "라쉼",
+    "category": "메이크업",
+    "subcategory": "파운데이션",
+    "price": 57357,
+    "rating": 4.5,
+    "reviewCount": 37846,
+    "salesCount": 98790,
+    "searchVolume": 39543,
+    "image": "/images/products/4305.jpg",
+    "keyIngredients": [
+      "히알루론산",
+      "비타민C",
+      "알부틴",
+      "AHA"
+    ],
+    "skinConcerns": [
+      "주름",
+      "민감성"
+    ],
+    "description": "주름, 민감성 고민을 위한 파운데이션 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 826,
+    "name": "투쿨포스쿨 선 세럼 글로우",
+    "brand": "투쿨포스쿨",
+    "category": "스킨케어",
+    "subcategory": "선케어",
+    "price": 26715,
+    "rating": 4.9,
+    "reviewCount": 11847,
+    "salesCount": 98785,
+    "searchVolume": 49565,
+    "image": "/images/products/826.jpg",
+    "keyIngredients": [
+      "AHA",
+      "비타민C",
+      "판테놀",
+      "알부틴",
+      "펩타이드"
+    ],
+    "skinConcerns": [
+      "민감성",
+      "모공",
+      "주름"
+    ],
+    "description": "민감성, 모공, 주름 고민을 위한 선케어 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 3056,
+    "name": "웨이크메이크 클렌징 폼 프로",
+    "brand": "웨이크메이크",
+    "category": "스킨케어",
+    "subcategory": "클렌징",
+    "price": 21875,
+    "rating": 4.8,
+    "reviewCount": 4260,
+    "salesCount": 98772,
+    "searchVolume": 8080,
+    "image": "/images/products/3056.jpg",
+    "keyIngredients": [
+      "알부틴",
+      "프로폴리스",
+      "트라넥삼산",
+      "히알루론산",
+      "PDRN"
+    ],
+    "skinConcerns": [
+      "주름",
+      "모공",
+      "여드름"
+    ],
+    "description": "주름, 모공, 여드름 고민을 위한 클렌징 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 5028,
+    "name": "구달 립틴트 플러스",
+    "brand": "구달",
+    "category": "메이크업",
+    "subcategory": "립틴트",
+    "price": 18883,
+    "rating": 4.5,
+    "reviewCount": 21429,
+    "salesCount": 98763,
+    "searchVolume": 44614,
+    "image": "/images/products/5028.jpg",
+    "keyIngredients": [
+      "나이아신아마이드",
+      "세라마이드",
+      "베타글루칸",
+      "비타민C"
+    ],
+    "skinConcerns": [
+      "브라이트닝"
+    ],
+    "description": "브라이트닝 고민을 위한 립틴트 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 30,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 1809,
+    "name": "토니모리 쿠션 글로우",
+    "brand": "토니모리",
+    "category": "메이크업",
+    "subcategory": "쿠션",
+    "price": 47080,
+    "rating": 4.1,
+    "reviewCount": 40321,
+    "salesCount": 98760,
+    "searchVolume": 28377,
+    "image": "/images/products/1809.jpg",
+    "keyIngredients": [
+      "BHA",
+      "알부틴",
+      "아데노신",
+      "펩타이드"
+    ],
+    "skinConcerns": [
+      "민감성",
+      "주름"
+    ],
+    "description": "민감성, 주름 고민을 위한 쿠션 제품",
+    "trending": false,
+    "isNew": true,
+    "discount": 30,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 144,
+    "name": "넘버즈인 수분 크림 프로",
+    "brand": "넘버즈인",
+    "category": "스킨케어",
+    "subcategory": "크림",
+    "price": 31674,
+    "rating": 4.7,
+    "reviewCount": 27140,
+    "salesCount": 98724,
+    "searchVolume": 31210,
+    "image": "/images/products/144.jpg",
+    "keyIngredients": [
+      "세라마이드",
+      "비타민C",
+      "AHA",
+      "알부틴",
+      "펩타이드"
+    ],
+    "skinConcerns": [
+      "여드름",
+      "탄력",
+      "민감성"
+    ],
+    "description": "여드름, 탄력, 민감성 고민을 위한 크림 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 3259,
+    "name": "에스트라 클렌징 밤 플러스",
+    "brand": "에스트라",
+    "category": "스킨케어",
+    "subcategory": "클렌징",
+    "price": 33618,
+    "rating": 4.7,
+    "reviewCount": 31658,
+    "salesCount": 98721,
+    "searchVolume": 34313,
+    "image": "/images/products/3259.jpg",
+    "keyIngredients": [
+      "프로폴리스",
+      "PHA",
+      "PDRN"
+    ],
+    "skinConcerns": [
+      "모공",
+      "주름",
+      "브라이트닝"
+    ],
+    "description": "모공, 주름, 브라이트닝 고민을 위한 클렌징 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 25,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 5332,
+    "name": "아이오페 나이아신아마이드 세럼 프레시",
+    "brand": "아이오페",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 32199,
+    "rating": 4.3,
+    "reviewCount": 10480,
+    "salesCount": 98687,
+    "searchVolume": 44355,
+    "image": "/images/products/5332.jpg",
+    "keyIngredients": [
+      "펩타이드",
+      "아데노신",
+      "PHA",
+      "판테놀"
+    ],
+    "skinConcerns": [
+      "모공",
+      "색소침착",
+      "민감성"
+    ],
+    "description": "모공, 색소침착, 민감성 고민을 위한 세럼/앰플 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 3523,
+    "name": "네이처리퍼블릭 파운데이션 리프팅",
+    "brand": "네이처리퍼블릭",
+    "category": "메이크업",
+    "subcategory": "파운데이션",
+    "price": 31377,
+    "rating": 4.4,
+    "reviewCount": 38898,
+    "salesCount": 98580,
+    "searchVolume": 8884,
+    "image": "/images/products/3523.jpg",
+    "keyIngredients": [
+      "세라마이드",
+      "히알루론산"
+    ],
+    "skinConcerns": [
+      "주름",
+      "색소침착"
+    ],
+    "description": "주름, 색소침착 고민을 위한 파운데이션 제품",
+    "trending": true,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 3235,
+    "name": "롬앤 립스틱 딥",
+    "brand": "롬앤",
+    "category": "메이크업",
+    "subcategory": "립스틱",
+    "price": 33705,
+    "rating": 4.5,
+    "reviewCount": 31431,
+    "salesCount": 98565,
+    "searchVolume": 13192,
+    "image": "/images/products/3235.jpg",
+    "keyIngredients": [
+      "PHA",
+      "센텔라",
+      "히알루론산",
+      "트라넥삼산",
+      "PDRN"
+    ],
+    "skinConcerns": [
+      "여드름",
+      "주름",
+      "브라이트닝"
+    ],
+    "description": "여드름, 주름, 브라이트닝 고민을 위한 립스틱 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 10,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 3881,
+    "name": "소내추럴 아이섀도우 팔레트 프로",
+    "brand": "소내추럴",
+    "category": "메이크업",
+    "subcategory": "아이섀도우",
+    "price": 29847,
+    "rating": 4.6,
+    "reviewCount": 29884,
+    "salesCount": 98557,
+    "searchVolume": 9904,
+    "image": "/images/products/3881.jpg",
+    "keyIngredients": [
+      "레티놀",
+      "베타글루칸"
+    ],
+    "skinConcerns": [
+      "민감성",
+      "브라이트닝"
+    ],
+    "description": "민감성, 브라이트닝 고민을 위한 아이섀도우 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 4478,
+    "name": "스킨1004 수면 마스크 프레시",
+    "brand": "스킨1004",
+    "category": "스킨케어",
+    "subcategory": "마스크팩",
+    "price": 36981,
+    "rating": 5.0,
+    "reviewCount": 49056,
+    "salesCount": 98548,
+    "searchVolume": 46865,
+    "image": "/images/products/4478.jpg",
+    "keyIngredients": [
+      "판테놀",
+      "AHA",
+      "나이아신아마이드",
+      "PDRN",
+      "히알루론산"
+    ],
+    "skinConcerns": [
+      "탄력"
+    ],
+    "description": "탄력 고민을 위한 마스크팩 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 4754,
+    "name": "미샤 비타민C 세럼 플러스",
+    "brand": "미샤",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 40416,
+    "rating": 4.4,
+    "reviewCount": 320,
+    "salesCount": 98521,
+    "searchVolume": 30964,
+    "image": "/images/products/4754.jpg",
+    "keyIngredients": [
+      "레티놀",
+      "펩타이드"
+    ],
+    "skinConcerns": [
+      "브라이트닝"
+    ],
+    "description": "브라이트닝 고민을 위한 세럼/앰플 제품",
+    "trending": false,
+    "isNew": true,
+    "discount": 10,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 2802,
+    "name": "려 아이섀도우 팔레트",
+    "brand": "려",
+    "category": "메이크업",
+    "subcategory": "아이섀도우",
+    "price": 43828,
+    "rating": 4.1,
+    "reviewCount": 37759,
+    "salesCount": 98520,
+    "searchVolume": 33219,
+    "image": "/images/products/2802.jpg",
+    "keyIngredients": [
+      "PDRN",
+      "레티놀",
+      "판테놀",
+      "베타글루칸",
+      "콜라겐"
+    ],
+    "skinConcerns": [
+      "민감성",
+      "주름"
+    ],
+    "description": "민감성, 주름 고민을 위한 아이섀도우 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 5177,
+    "name": "미샤 PDRN 앰플 인텐시브",
+    "brand": "미샤",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 54900,
+    "rating": 4.3,
+    "reviewCount": 33565,
+    "salesCount": 98517,
+    "searchVolume": 23456,
+    "image": "/images/products/5177.jpg",
+    "keyIngredients": [
+      "나이아신아마이드",
+      "세라마이드",
+      "PDRN",
+      "판테놀"
+    ],
+    "skinConcerns": [
+      "브라이트닝",
+      "수분부족",
+      "탄력"
+    ],
+    "description": "브라이트닝, 수분부족, 탄력 고민을 위한 세럼/앰플 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 30,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 2779,
+    "name": "에이프릴스킨 선 세럼",
+    "brand": "에이프릴스킨",
+    "category": "스킨케어",
+    "subcategory": "선케어",
+    "price": 28089,
+    "rating": 4.1,
+    "reviewCount": 43675,
+    "salesCount": 98516,
+    "searchVolume": 48724,
+    "image": "/images/products/2779.jpg",
+    "keyIngredients": [
+      "PDRN",
+      "세라마이드",
+      "AHA"
+    ],
+    "skinConcerns": [
+      "모공"
+    ],
+    "description": "모공 고민을 위한 선케어 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 20,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 966,
+    "name": "세라베 히알루론산 세럼 인텐시브",
+    "brand": "세라베",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 32172,
+    "rating": 4.1,
+    "reviewCount": 31039,
+    "salesCount": 98422,
+    "searchVolume": 18604,
+    "image": "/images/products/966.jpg",
+    "keyIngredients": [
+      "프로폴리스",
+      "콜라겐",
+      "센텔라",
+      "PHA",
+      "레티놀"
+    ],
+    "skinConcerns": [
+      "수분부족",
+      "주름"
+    ],
+    "description": "수분부족, 주름 고민을 위한 세럼/앰플 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 2742,
+    "name": "아벤느 파운데이션 리얼",
+    "brand": "아벤느",
+    "category": "메이크업",
+    "subcategory": "파운데이션",
+    "price": 33366,
+    "rating": 4.0,
+    "reviewCount": 19433,
+    "salesCount": 98409,
+    "searchVolume": 2301,
+    "image": "/images/products/2742.jpg",
+    "keyIngredients": [
+      "센텔라",
+      "히알루론산"
+    ],
+    "skinConcerns": [
+      "색소침착",
+      "수분부족"
+    ],
+    "description": "색소침착, 수분부족 고민을 위한 파운데이션 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 15,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 870,
+    "name": "VDL 비타민C 세럼",
+    "brand": "VDL",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 51429,
+    "rating": 4.6,
+    "reviewCount": 7278,
+    "salesCount": 98407,
+    "searchVolume": 45997,
+    "image": "/images/products/870.jpg",
+    "keyIngredients": [
+      "센텔라",
+      "콜라겐",
+      "히알루론산"
+    ],
+    "skinConcerns": [
+      "주름"
+    ],
+    "description": "주름 고민을 위한 세럼/앰플 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 10,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 530,
+    "name": "코스알엑스 파운데이션",
+    "brand": "코스알엑스",
+    "category": "메이크업",
+    "subcategory": "파운데이션",
+    "price": 49165,
+    "rating": 4.3,
+    "reviewCount": 11684,
+    "salesCount": 98375,
+    "searchVolume": 16634,
+    "image": "/images/products/530.jpg",
+    "keyIngredients": [
+      "레티놀",
+      "알부틴",
+      "세라마이드",
+      "BHA",
+      "아데노신"
+    ],
+    "skinConcerns": [
+      "민감성"
+    ],
+    "description": "민감성 고민을 위한 파운데이션 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 20,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 328,
+    "name": "에이프릴스킨 재생 크림 프레시",
+    "brand": "에이프릴스킨",
+    "category": "스킨케어",
+    "subcategory": "크림",
+    "price": 63644,
+    "rating": 4.1,
+    "reviewCount": 40336,
+    "salesCount": 98363,
+    "searchVolume": 19360,
+    "image": "/images/products/328.jpg",
+    "keyIngredients": [
+      "센텔라",
+      "베타글루칸",
+      "콜라겐"
+    ],
+    "skinConcerns": [
+      "탄력"
+    ],
+    "description": "탄력 고민을 위한 크림 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 3949,
+    "name": "아누아 선크림 프로",
+    "brand": "아누아",
+    "category": "스킨케어",
+    "subcategory": "선케어",
+    "price": 31432,
+    "rating": 4.6,
+    "reviewCount": 32935,
+    "salesCount": 98360,
+    "searchVolume": 41283,
+    "image": "/images/products/3949.jpg",
+    "keyIngredients": [
+      "판테놀",
+      "세라마이드",
+      "비타민C",
+      "알부틴"
+    ],
+    "skinConcerns": [
+      "여드름",
+      "주름"
+    ],
+    "description": "여드름, 주름 고민을 위한 선케어 제품",
+    "trending": false,
+    "isNew": true,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 2426,
+    "name": "메디큐브 히알루론산 세럼 플러스",
+    "brand": "메디큐브",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 46152,
+    "rating": 4.3,
+    "reviewCount": 25438,
+    "salesCount": 98358,
+    "searchVolume": 45609,
+    "image": "/images/products/2426.jpg",
+    "keyIngredients": [
+      "베타글루칸",
+      "프로폴리스",
+      "알부틴"
+    ],
+    "skinConcerns": [
+      "수분부족",
+      "탄력"
+    ],
+    "description": "수분부족, 탄력 고민을 위한 세럼/앰플 제품",
+    "trending": true,
+    "isNew": false,
+    "discount": 25,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 3755,
+    "name": "비오템 립틴트 프로",
+    "brand": "비오템",
+    "category": "메이크업",
+    "subcategory": "립틴트",
+    "price": 16980,
+    "rating": 4.6,
+    "reviewCount": 43999,
+    "salesCount": 98355,
+    "searchVolume": 2962,
+    "image": "/images/products/3755.jpg",
+    "keyIngredients": [
+      "레티놀",
+      "판테놀",
+      "PHA",
+      "히알루론산"
+    ],
+    "skinConcerns": [
+      "브라이트닝",
+      "색소침착",
+      "민감성"
+    ],
+    "description": "브라이트닝, 색소침착, 민감성 고민을 위한 립틴트 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 10,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 5114,
+    "name": "웨이크메이크 각질 제거 토너 딥",
+    "brand": "웨이크메이크",
+    "category": "스킨케어",
+    "subcategory": "토너",
+    "price": 25859,
+    "rating": 5.0,
+    "reviewCount": 21944,
+    "salesCount": 98351,
+    "searchVolume": 32718,
+    "image": "/images/products/5114.jpg",
+    "keyIngredients": [
+      "나이아신아마이드",
+      "아데노신",
+      "PHA",
+      "히알루론산"
+    ],
+    "skinConcerns": [
+      "모공",
+      "브라이트닝",
+      "탄력"
+    ],
+    "description": "모공, 브라이트닝, 탄력 고민을 위한 토너 제품",
+    "trending": true,
+    "isNew": false,
+    "discount": 10,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 215,
+    "name": "아이오페 클렌징 오일 글로우",
+    "brand": "아이오페",
+    "category": "스킨케어",
+    "subcategory": "클렌징",
+    "price": 28216,
+    "rating": 4.4,
+    "reviewCount": 15132,
+    "salesCount": 98346,
+    "searchVolume": 39258,
+    "image": "/images/products/215.jpg",
+    "keyIngredients": [
+      "트라넥삼산",
+      "콜라겐",
+      "펩타이드",
+      "비타민C",
+      "세라마이드"
+    ],
+    "skinConcerns": [
+      "모공"
+    ],
+    "description": "모공 고민을 위한 클렌징 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 4241,
+    "name": "넘버즈인 비타민C 세럼 프레시",
+    "brand": "넘버즈인",
+    "category": "스킨케어",
+    "subcategory": "세럼/앰플",
+    "price": 31235,
+    "rating": 4.2,
+    "reviewCount": 38386,
+    "salesCount": 98340,
+    "searchVolume": 42119,
+    "image": "/images/products/4241.jpg",
+    "keyIngredients": [
+      "센텔라",
+      "히알루론산",
+      "펩타이드",
+      "알부틴"
+    ],
+    "skinConcerns": [
+      "민감성"
+    ],
+    "description": "민감성 고민을 위한 세럼/앰플 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 20,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 3954,
+    "name": "롬앤 수분 토너 플러스",
+    "brand": "롬앤",
+    "category": "스킨케어",
+    "subcategory": "토너",
+    "price": 17412,
+    "rating": 4.8,
+    "reviewCount": 45119,
+    "salesCount": 98335,
+    "searchVolume": 24547,
+    "image": "/images/products/3954.jpg",
+    "keyIngredients": [
+      "PHA",
+      "센텔라",
+      "아데노신"
+    ],
+    "skinConcerns": [
+      "수분부족",
+      "브라이트닝",
+      "여드름"
+    ],
+    "description": "수분부족, 브라이트닝, 여드름 고민을 위한 토너 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 3246,
+    "name": "스킨1004 립스틱 퓨어",
+    "brand": "스킨1004",
+    "category": "메이크업",
+    "subcategory": "립스틱",
+    "price": 24663,
+    "rating": 4.5,
+    "reviewCount": 8115,
+    "salesCount": 98323,
+    "searchVolume": 17436,
+    "image": "/images/products/3246.jpg",
+    "keyIngredients": [
+      "알부틴",
+      "PDRN",
+      "히알루론산"
+    ],
+    "skinConcerns": [
+      "색소침착",
+      "주름",
+      "모공"
+    ],
+    "description": "색소침착, 주름, 모공 고민을 위한 립스틱 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 30,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 728,
+    "name": "정샘물 각질 제거 토너 글로우",
+    "brand": "정샘물",
+    "category": "스킨케어",
+    "subcategory": "토너",
+    "price": 33054,
+    "rating": 4.3,
+    "reviewCount": 6286,
+    "salesCount": 98291,
+    "searchVolume": 7031,
+    "image": "/images/products/728.jpg",
+    "keyIngredients": [
+      "세라마이드",
+      "판테놀",
+      "BHA",
+      "레티놀",
+      "PDRN"
+    ],
+    "skinConcerns": [
+      "브라이트닝"
+    ],
+    "description": "브라이트닝 고민을 위한 토너 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 1650,
+    "name": "라보에이치 진정 크림 딥",
+    "brand": "라보에이치",
+    "category": "스킨케어",
+    "subcategory": "크림",
+    "price": 59595,
+    "rating": 4.6,
+    "reviewCount": 11585,
+    "salesCount": 98242,
+    "searchVolume": 1633,
+    "image": "/images/products/1650.jpg",
+    "keyIngredients": [
+      "세라마이드",
+      "트라넥삼산",
+      "PDRN"
+    ],
+    "skinConcerns": [
+      "모공"
+    ],
+    "description": "모공 고민을 위한 크림 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 0,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  },
+  {
+    "id": 1839,
+    "name": "헤라 재생 크림 프레시",
+    "brand": "헤라",
+    "category": "스킨케어",
+    "subcategory": "크림",
+    "price": 78349,
+    "rating": 4.4,
+    "reviewCount": 15252,
+    "salesCount": 98239,
+    "searchVolume": 44881,
+    "image": "/images/products/1839.jpg",
+    "keyIngredients": [
+      "아데노신",
+      "PHA"
+    ],
+    "skinConcerns": [
+      "수분부족"
+    ],
+    "description": "수분부족 고민을 위한 크림 제품",
+    "trending": false,
+    "isNew": false,
+    "discount": 30,
+    "source": "generated",
+    "lastUpdated": "2025-10-19"
+  }
+]

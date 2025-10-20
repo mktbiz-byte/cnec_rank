@@ -1,0 +1,401 @@
+[
+  {
+    "id": 1,
+    "name": "설화수",
+    "country": "한국",
+    "description": "설화수 브랜드",
+    "productCount": 75
+  },
+  {
+    "id": 2,
+    "name": "후",
+    "country": "한국",
+    "description": "후 브랜드",
+    "productCount": 85
+  },
+  {
+    "id": 3,
+    "name": "라네즈",
+    "country": "한국",
+    "description": "라네즈 브랜드",
+    "productCount": 93
+  },
+  {
+    "id": 4,
+    "name": "이니스프리",
+    "country": "한국",
+    "description": "이니스프리 브랜드",
+    "productCount": 92
+  },
+  {
+    "id": 5,
+    "name": "에뛰드",
+    "country": "한국",
+    "description": "에뛰드 브랜드",
+    "productCount": 94
+  },
+  {
+    "id": 6,
+    "name": "미샤",
+    "country": "한국",
+    "description": "미샤 브랜드",
+    "productCount": 93
+  },
+  {
+    "id": 7,
+    "name": "더페이스샵",
+    "country": "한국",
+    "description": "더페이스샵 브랜드",
+    "productCount": 85
+  },
+  {
+    "id": 8,
+    "name": "코스알엑스",
+    "country": "한국",
+    "description": "코스알엑스 브랜드",
+    "productCount": 95
+  },
+  {
+    "id": 9,
+    "name": "라운드랩",
+    "country": "한국",
+    "description": "라운드랩 브랜드",
+    "productCount": 109
+  },
+  {
+    "id": 10,
+    "name": "아누아",
+    "country": "한국",
+    "description": "아누아 브랜드",
+    "productCount": 96
+  },
+  {
+    "id": 11,
+    "name": "토리든",
+    "country": "한국",
+    "description": "토리든 브랜드",
+    "productCount": 100
+  },
+  {
+    "id": 12,
+    "name": "뷰티오브조선",
+    "country": "한국",
+    "description": "뷰티오브조선 브랜드",
+    "productCount": 91
+  },
+  {
+    "id": 13,
+    "name": "스킨1004",
+    "country": "한국",
+    "description": "스킨1004 브랜드",
+    "productCount": 85
+  },
+  {
+    "id": 14,
+    "name": "메디힐",
+    "country": "한국",
+    "description": "메디힐 브랜드",
+    "productCount": 83
+  },
+  {
+    "id": 15,
+    "name": "에스트라",
+    "country": "한국",
+    "description": "에스트라 브랜드",
+    "productCount": 89
+  },
+  {
+    "id": 16,
+    "name": "센텔리안24",
+    "country": "한국",
+    "description": "센텔리안24 브랜드",
+    "productCount": 108
+  },
+  {
+    "id": 17,
+    "name": "닥터지",
+    "country": "한국",
+    "description": "닥터지 브랜드",
+    "productCount": 100
+  },
+  {
+    "id": 18,
+    "name": "클리오",
+    "country": "한국",
+    "description": "클리오 브랜드",
+    "productCount": 93
+  },
+  {
+    "id": 19,
+    "name": "헤라",
+    "country": "한국",
+    "description": "헤라 브랜드",
+    "productCount": 74
+  },
+  {
+    "id": 20,
+    "name": "아이오페",
+    "country": "한국",
+    "description": "아이오페 브랜드",
+    "productCount": 95
+  },
+  {
+    "id": 21,
+    "name": "넘버즈인",
+    "country": "한국",
+    "description": "넘버즈인 브랜드",
+    "productCount": 99
+  },
+  {
+    "id": 22,
+    "name": "구달",
+    "country": "한국",
+    "description": "구달 브랜드",
+    "productCount": 118
+  },
+  {
+    "id": 23,
+    "name": "달바",
+    "country": "한국",
+    "description": "달바 브랜드",
+    "productCount": 107
+  },
+  {
+    "id": 24,
+    "name": "메디큐브",
+    "country": "한국",
+    "description": "메디큐브 브랜드",
+    "productCount": 99
+  },
+  {
+    "id": 25,
+    "name": "비플레인",
+    "country": "한국",
+    "description": "비플레인 브랜드",
+    "productCount": 108
+  },
+  {
+    "id": 26,
+    "name": "일소",
+    "country": "한국",
+    "description": "일소 브랜드",
+    "productCount": 97
+  },
+  {
+    "id": 27,
+    "name": "라쉼",
+    "country": "한국",
+    "description": "라쉼 브랜드",
+    "productCount": 108
+  },
+  {
+    "id": 28,
+    "name": "토니모리",
+    "country": "한국",
+    "description": "토니모리 브랜드",
+    "productCount": 95
+  },
+  {
+    "id": 29,
+    "name": "홀리카홀리카",
+    "country": "한국",
+    "description": "홀리카홀리카 브랜드",
+    "productCount": 103
+  },
+  {
+    "id": 30,
+    "name": "네이처리퍼블릭",
+    "country": "한국",
+    "description": "네이처리퍼블릭 브랜드",
+    "productCount": 88
+  },
+  {
+    "id": 31,
+    "name": "스킨푸드",
+    "country": "한국",
+    "description": "스킨푸드 브랜드",
+    "productCount": 103
+  },
+  {
+    "id": 32,
+    "name": "투쿨포스쿨",
+    "country": "한국",
+    "description": "투쿨포스쿨 브랜드",
+    "productCount": 95
+  },
+  {
+    "id": 33,
+    "name": "페리페라",
+    "country": "한국",
+    "description": "페리페라 브랜드",
+    "productCount": 91
+  },
+  {
+    "id": 34,
+    "name": "롬앤",
+    "country": "한국",
+    "description": "롬앤 브랜드",
+    "productCount": 90
+  },
+  {
+    "id": 35,
+    "name": "3CE",
+    "country": "한국",
+    "description": "3CE 브랜드",
+    "productCount": 116
+  },
+  {
+    "id": 36,
+    "name": "정샘물",
+    "country": "한국",
+    "description": "정샘물 브랜드",
+    "productCount": 108
+  },
+  {
+    "id": 37,
+    "name": "VDL",
+    "country": "한국",
+    "description": "VDL 브랜드",
+    "productCount": 80
+  },
+  {
+    "id": 38,
+    "name": "에이프릴스킨",
+    "country": "한국",
+    "description": "에이프릴스킨 브랜드",
+    "productCount": 80
+  },
+  {
+    "id": 39,
+    "name": "클레어스",
+    "country": "한국",
+    "description": "클레어스 브랜드",
+    "productCount": 99
+  },
+  {
+    "id": 40,
+    "name": "라로슈포제",
+    "country": "프랑스/미국",
+    "description": "라로슈포제 브랜드",
+    "productCount": 118
+  },
+  {
+    "id": 41,
+    "name": "세라베",
+    "country": "프랑스/미국",
+    "description": "세라베 브랜드",
+    "productCount": 106
+  },
+  {
+    "id": 42,
+    "name": "비오템",
+    "country": "프랑스/미국",
+    "description": "비오템 브랜드",
+    "productCount": 114
+  },
+  {
+    "id": 43,
+    "name": "피지오겔",
+    "country": "한국",
+    "description": "피지오겔 브랜드",
+    "productCount": 89
+  },
+  {
+    "id": 44,
+    "name": "유세린",
+    "country": "프랑스/미국",
+    "description": "유세린 브랜드",
+    "productCount": 97
+  },
+  {
+    "id": 45,
+    "name": "아벤느",
+    "country": "프랑스/미국",
+    "description": "아벤느 브랜드",
+    "productCount": 93
+  },
+  {
+    "id": 46,
+    "name": "유노브",
+    "country": "한국",
+    "description": "유노브 브랜드",
+    "productCount": 103
+  },
+  {
+    "id": 47,
+    "name": "려",
+    "country": "한국",
+    "description": "려 브랜드",
+    "productCount": 96
+  },
+  {
+    "id": 48,
+    "name": "라보에이치",
+    "country": "한국",
+    "description": "라보에이치 브랜드",
+    "productCount": 107
+  },
+  {
+    "id": 49,
+    "name": "닥터엘시아",
+    "country": "한국",
+    "description": "닥터엘시아 브랜드",
+    "productCount": 87
+  },
+  {
+    "id": 50,
+    "name": "메디앤서",
+    "country": "한국",
+    "description": "메디앤서 브랜드",
+    "productCount": 92
+  },
+  {
+    "id": 51,
+    "name": "젤라쿠아",
+    "country": "한국",
+    "description": "젤라쿠아 브랜드",
+    "productCount": 99
+  },
+  {
+    "id": 52,
+    "name": "웨이크메이크",
+    "country": "한국",
+    "description": "웨이크메이크 브랜드",
+    "productCount": 105
+  },
+  {
+    "id": 53,
+    "name": "모렛",
+    "country": "한국",
+    "description": "모렛 브랜드",
+    "productCount": 96
+  },
+  {
+    "id": 54,
+    "name": "태오앤더",
+    "country": "한국",
+    "description": "태오앤더 브랜드",
+    "productCount": 98
+  },
+  {
+    "id": 55,
+    "name": "소내추럴",
+    "country": "한국",
+    "description": "소내추럴 브랜드",
+    "productCount": 92
+  },
+  {
+    "id": 56,
+    "name": "굿달",
+    "country": "한국",
+    "description": "굿달 브랜드",
+    "productCount": 89
+  },
+  {
+    "id": 57,
+    "name": "센카",
+    "country": "한국",
+    "description": "센카 브랜드",
+    "productCount": 100
+  }
+]
