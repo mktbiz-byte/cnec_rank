@@ -1,0 +1,5378 @@
+[
+  {
+    "product_id": 1,
+    "prices": [
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 30.35,
+        "currency": "SGD",
+        "price_krw": 29438,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 43.4,
+        "currency": "MYR",
+        "price_krw": 12587,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 4447.22,
+        "currency": "JPY",
+        "price_krw": 40025,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 33.44,
+        "currency": "SGD",
+        "price_krw": 32440,
+        "discount_rate": 50
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 1310.89,
+        "currency": "THB",
+        "price_krw": 48503,
+        "discount_rate": 30
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 43.4,
+      "currency": "MYR",
+      "price_krw": 12587,
+      "discount_rate": 10
+    },
+    "max_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 1310.89,
+      "currency": "THB",
+      "price_krw": 48503,
+      "discount_rate": 30
+    },
+    "price_difference_krw": 35916,
+    "price_difference_pct": 74.0,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 2,
+    "prices": [
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 3755.6,
+        "currency": "JPY",
+        "price_krw": 33800,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 127.16,
+        "currency": "MYR",
+        "price_krw": 36877,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 61.29,
+        "currency": "SGD",
+        "price_krw": 59455,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 186.26,
+        "currency": "MYR",
+        "price_krw": 54014,
+        "discount_rate": 30
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon Japan",
+      "country": "JP",
+      "price": 3755.6,
+      "currency": "JPY",
+      "price_krw": 33800,
+      "discount_rate": 40
+    },
+    "max_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 61.29,
+      "currency": "SGD",
+      "price_krw": 59455,
+      "discount_rate": 0
+    },
+    "price_difference_krw": 25655,
+    "price_difference_pct": 43.2,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 3,
+    "prices": [
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 15.48,
+        "currency": "USD",
+        "price_krw": 20125,
+        "discount_rate": 50
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 3551.0,
+        "currency": "JPY",
+        "price_krw": 31959,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 61.22,
+        "currency": "SGD",
+        "price_krw": 59387,
+        "discount_rate": 15
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 15.48,
+      "currency": "USD",
+      "price_krw": 20125,
+      "discount_rate": 50
+    },
+    "max_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 61.22,
+      "currency": "SGD",
+      "price_krw": 59387,
+      "discount_rate": 15
+    },
+    "price_difference_krw": 39262,
+    "price_difference_pct": 66.1,
+    "num_platforms": 3
+  },
+  {
+    "product_id": 4,
+    "prices": [
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 34.97,
+        "currency": "MYR",
+        "price_krw": 10141,
+        "discount_rate": 50
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 211.81,
+        "currency": "MYR",
+        "price_krw": 61424,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 27.03,
+        "currency": "SGD",
+        "price_krw": 26216,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 930.6,
+        "currency": "THB",
+        "price_krw": 34432,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 3572.3,
+        "currency": "JPY",
+        "price_krw": 32150,
+        "discount_rate": 10
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 34.97,
+      "currency": "MYR",
+      "price_krw": 10141,
+      "discount_rate": 50
+    },
+    "max_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 211.81,
+      "currency": "MYR",
+      "price_krw": 61424,
+      "discount_rate": 15
+    },
+    "price_difference_krw": 51283,
+    "price_difference_pct": 83.5,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 5,
+    "prices": [
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 46.66,
+        "currency": "SGD",
+        "price_krw": 45257,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 19.37,
+        "currency": "SGD",
+        "price_krw": 18789,
+        "discount_rate": 50
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 6593.7,
+        "currency": "JPY",
+        "price_krw": 59343,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 77.37,
+        "currency": "MYR",
+        "price_krw": 22436,
+        "discount_rate": 5
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 19.37,
+      "currency": "SGD",
+      "price_krw": 18789,
+      "discount_rate": 50
+    },
+    "max_price": {
+      "platform": "Amazon Japan",
+      "country": "JP",
+      "price": 6593.7,
+      "currency": "JPY",
+      "price_krw": 59343,
+      "discount_rate": 10
+    },
+    "price_difference_krw": 40554,
+    "price_difference_pct": 68.3,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 6,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 88.58,
+        "currency": "MYR",
+        "price_krw": 25688,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 1594.25,
+        "currency": "JPY",
+        "price_krw": 14348,
+        "discount_rate": 25
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 730.52,
+        "currency": "THB",
+        "price_krw": 27029,
+        "discount_rate": 25
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 56.34,
+        "currency": "SGD",
+        "price_krw": 54652,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 102.8,
+        "currency": "MYR",
+        "price_krw": 29813,
+        "discount_rate": 25
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon Japan",
+      "country": "JP",
+      "price": 1594.25,
+      "currency": "JPY",
+      "price_krw": 14348,
+      "discount_rate": 25
+    },
+    "max_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 56.34,
+      "currency": "SGD",
+      "price_krw": 54652,
+      "discount_rate": 15
+    },
+    "price_difference_krw": 40304,
+    "price_difference_pct": 73.7,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 7,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 61.56,
+        "currency": "MYR",
+        "price_krw": 17851,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 44.19,
+        "currency": "SGD",
+        "price_krw": 42865,
+        "discount_rate": 5
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 61.56,
+      "currency": "MYR",
+      "price_krw": 17851,
+      "discount_rate": 40
+    },
+    "max_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 44.19,
+      "currency": "SGD",
+      "price_krw": 42865,
+      "discount_rate": 5
+    },
+    "price_difference_krw": 25014,
+    "price_difference_pct": 58.4,
+    "num_platforms": 2
+  },
+  {
+    "product_id": 8,
+    "prices": [
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 23.17,
+        "currency": "SGD",
+        "price_krw": 22478,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 1591.02,
+        "currency": "THB",
+        "price_krw": 58867,
+        "discount_rate": 15
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 23.17,
+      "currency": "SGD",
+      "price_krw": 22478,
+      "discount_rate": 5
+    },
+    "max_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 1591.02,
+      "currency": "THB",
+      "price_krw": 58867,
+      "discount_rate": 15
+    },
+    "price_difference_krw": 36389,
+    "price_difference_pct": 61.8,
+    "num_platforms": 2
+  },
+  {
+    "product_id": 9,
+    "prices": [
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 28.62,
+        "currency": "SGD",
+        "price_krw": 27761,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 37.18,
+        "currency": "USD",
+        "price_krw": 48328,
+        "discount_rate": 25
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 28.62,
+      "currency": "SGD",
+      "price_krw": 27761,
+      "discount_rate": 30
+    },
+    "max_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 37.18,
+      "currency": "USD",
+      "price_krw": 48328,
+      "discount_rate": 25
+    },
+    "price_difference_krw": 20567,
+    "price_difference_pct": 42.6,
+    "num_platforms": 2
+  },
+  {
+    "product_id": 10,
+    "prices": [
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 76.28,
+        "currency": "MYR",
+        "price_krw": 22120,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 95.31,
+        "currency": "MYR",
+        "price_krw": 27640,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 19.44,
+        "currency": "SGD",
+        "price_krw": 18861,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 40.09,
+        "currency": "SGD",
+        "price_krw": 38886,
+        "discount_rate": 50
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 19.44,
+      "currency": "SGD",
+      "price_krw": 18861,
+      "discount_rate": 20
+    },
+    "max_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 40.09,
+      "currency": "SGD",
+      "price_krw": 38886,
+      "discount_rate": 50
+    },
+    "price_difference_krw": 20025,
+    "price_difference_pct": 51.5,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 11,
+    "prices": [
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 1480.6,
+        "currency": "JPY",
+        "price_krw": 13325,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 133.29,
+        "currency": "MYR",
+        "price_krw": 38654,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 58.59,
+        "currency": "MYR",
+        "price_krw": 16991,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 1153.58,
+        "currency": "THB",
+        "price_krw": 42682,
+        "discount_rate": 10
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon Japan",
+      "country": "JP",
+      "price": 1480.6,
+      "currency": "JPY",
+      "price_krw": 13325,
+      "discount_rate": 40
+    },
+    "max_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 1153.58,
+      "currency": "THB",
+      "price_krw": 42682,
+      "discount_rate": 10
+    },
+    "price_difference_krw": 29357,
+    "price_difference_pct": 68.8,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 12,
+    "prices": [
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 216.21,
+        "currency": "MYR",
+        "price_krw": 62700,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 81.6,
+        "currency": "MYR",
+        "price_krw": 23662,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 288.78,
+        "currency": "THB",
+        "price_krw": 10684,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 17.24,
+        "currency": "SGD",
+        "price_krw": 16722,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 43.24,
+        "currency": "SGD",
+        "price_krw": 41944,
+        "discount_rate": 40
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 288.78,
+      "currency": "THB",
+      "price_krw": 10684,
+      "discount_rate": 10
+    },
+    "max_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 216.21,
+      "currency": "MYR",
+      "price_krw": 62700,
+      "discount_rate": 5
+    },
+    "price_difference_krw": 52016,
+    "price_difference_pct": 83.0,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 13,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 97.08,
+        "currency": "MYR",
+        "price_krw": 28152,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 8.76,
+        "currency": "SGD",
+        "price_krw": 8499,
+        "discount_rate": 40
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 8.76,
+      "currency": "SGD",
+      "price_krw": 8499,
+      "discount_rate": 40
+    },
+    "max_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 97.08,
+      "currency": "MYR",
+      "price_krw": 28152,
+      "discount_rate": 15
+    },
+    "price_difference_krw": 19653,
+    "price_difference_pct": 69.8,
+    "num_platforms": 2
+  },
+  {
+    "product_id": 14,
+    "prices": [
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 56.9,
+        "currency": "SGD",
+        "price_krw": 55190,
+        "discount_rate": 25
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 4647.73,
+        "currency": "JPY",
+        "price_krw": 41829,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 11.41,
+        "currency": "SGD",
+        "price_krw": 11064,
+        "discount_rate": 50
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 8.06,
+        "currency": "USD",
+        "price_krw": 10473,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 469.02,
+        "currency": "THB",
+        "price_krw": 17353,
+        "discount_rate": 30
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 8.06,
+      "currency": "USD",
+      "price_krw": 10473,
+      "discount_rate": 0
+    },
+    "max_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 56.9,
+      "currency": "SGD",
+      "price_krw": 55190,
+      "discount_rate": 25
+    },
+    "price_difference_krw": 44717,
+    "price_difference_pct": 81.0,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 15,
+    "prices": [
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 3374.31,
+        "currency": "JPY",
+        "price_krw": 30368,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 42.17,
+        "currency": "USD",
+        "price_krw": 54817,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 83.57,
+        "currency": "MYR",
+        "price_krw": 24234,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 252.63,
+        "currency": "MYR",
+        "price_krw": 73264,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 21.56,
+        "currency": "SGD",
+        "price_krw": 20914,
+        "discount_rate": 30
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 21.56,
+      "currency": "SGD",
+      "price_krw": 20914,
+      "discount_rate": 30
+    },
+    "max_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 252.63,
+      "currency": "MYR",
+      "price_krw": 73264,
+      "discount_rate": 0
+    },
+    "price_difference_krw": 52350,
+    "price_difference_pct": 71.5,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 16,
+    "prices": [
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 12.89,
+        "currency": "USD",
+        "price_krw": 16755,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 2614.67,
+        "currency": "JPY",
+        "price_krw": 23532,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 128.66,
+        "currency": "MYR",
+        "price_krw": 37312,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 232.4,
+        "currency": "MYR",
+        "price_krw": 67394,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 25.61,
+        "currency": "SGD",
+        "price_krw": 24841,
+        "discount_rate": 50
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 12.89,
+      "currency": "USD",
+      "price_krw": 16755,
+      "discount_rate": 0
+    },
+    "max_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 232.4,
+      "currency": "MYR",
+      "price_krw": 67394,
+      "discount_rate": 15
+    },
+    "price_difference_krw": 50639,
+    "price_difference_pct": 75.1,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 17,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 84.07,
+        "currency": "MYR",
+        "price_krw": 24381,
+        "discount_rate": 25
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 21.27,
+        "currency": "USD",
+        "price_krw": 27655,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 7783.56,
+        "currency": "JPY",
+        "price_krw": 70052,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 9.06,
+        "currency": "SGD",
+        "price_krw": 8787,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 599.55,
+        "currency": "THB",
+        "price_krw": 22183,
+        "discount_rate": 40
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 9.06,
+      "currency": "SGD",
+      "price_krw": 8787,
+      "discount_rate": 15
+    },
+    "max_price": {
+      "platform": "Amazon Japan",
+      "country": "JP",
+      "price": 7783.56,
+      "currency": "JPY",
+      "price_krw": 70052,
+      "discount_rate": 5
+    },
+    "price_difference_krw": 61265,
+    "price_difference_pct": 87.5,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 18,
+    "prices": [
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 104.17,
+        "currency": "MYR",
+        "price_krw": 30210,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 32.76,
+        "currency": "SGD",
+        "price_krw": 31773,
+        "discount_rate": 50
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 104.17,
+      "currency": "MYR",
+      "price_krw": 30210,
+      "discount_rate": 15
+    },
+    "max_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 32.76,
+      "currency": "SGD",
+      "price_krw": 31773,
+      "discount_rate": 50
+    },
+    "price_difference_krw": 1563,
+    "price_difference_pct": 4.9,
+    "num_platforms": 2
+  },
+  {
+    "product_id": 19,
+    "prices": [
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 565.6,
+        "currency": "THB",
+        "price_krw": 20927,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 39.76,
+        "currency": "MYR",
+        "price_krw": 11530,
+        "discount_rate": 50
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 39.76,
+      "currency": "MYR",
+      "price_krw": 11530,
+      "discount_rate": 50
+    },
+    "max_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 565.6,
+      "currency": "THB",
+      "price_krw": 20927,
+      "discount_rate": 30
+    },
+    "price_difference_krw": 9397,
+    "price_difference_pct": 44.9,
+    "num_platforms": 2
+  },
+  {
+    "product_id": 20,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 202.12,
+        "currency": "MYR",
+        "price_krw": 58615,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 101.89,
+        "currency": "MYR",
+        "price_krw": 29548,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 46.55,
+        "currency": "USD",
+        "price_krw": 60508,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 34.2,
+        "currency": "SGD",
+        "price_krw": 33170,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 259.76,
+        "currency": "THB",
+        "price_krw": 9611,
+        "discount_rate": 30
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 259.76,
+      "currency": "THB",
+      "price_krw": 9611,
+      "discount_rate": 30
+    },
+    "max_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 46.55,
+      "currency": "USD",
+      "price_krw": 60508,
+      "discount_rate": 15
+    },
+    "price_difference_krw": 50897,
+    "price_difference_pct": 84.1,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 21,
+    "prices": [
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 19.43,
+        "currency": "SGD",
+        "price_krw": 18842,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 4743.8,
+        "currency": "JPY",
+        "price_krw": 42694,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 240.12,
+        "currency": "THB",
+        "price_krw": 8884,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 6.72,
+        "currency": "USD",
+        "price_krw": 8737,
+        "discount_rate": 50
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 6.72,
+      "currency": "USD",
+      "price_krw": 8737,
+      "discount_rate": 50
+    },
+    "max_price": {
+      "platform": "Amazon Japan",
+      "country": "JP",
+      "price": 4743.8,
+      "currency": "JPY",
+      "price_krw": 42694,
+      "discount_rate": 40
+    },
+    "price_difference_krw": 33957,
+    "price_difference_pct": 79.5,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 22,
+    "prices": [
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 751.76,
+        "currency": "THB",
+        "price_krw": 27815,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 37.12,
+        "currency": "SGD",
+        "price_krw": 36010,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 47.07,
+        "currency": "USD",
+        "price_krw": 61187,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 119.59,
+        "currency": "MYR",
+        "price_krw": 34681,
+        "discount_rate": 50
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 6255.17,
+        "currency": "JPY",
+        "price_krw": 56296,
+        "discount_rate": 25
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 751.76,
+      "currency": "THB",
+      "price_krw": 27815,
+      "discount_rate": 20
+    },
+    "max_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 47.07,
+      "currency": "USD",
+      "price_krw": 61187,
+      "discount_rate": 5
+    },
+    "price_difference_krw": 33372,
+    "price_difference_pct": 54.5,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 23,
+    "prices": [
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 73.68,
+        "currency": "SGD",
+        "price_krw": 71468,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 667.1,
+        "currency": "THB",
+        "price_krw": 24682,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 57.72,
+        "currency": "MYR",
+        "price_krw": 16740,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 197.2,
+        "currency": "MYR",
+        "price_krw": 57186,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 24.47,
+        "currency": "SGD",
+        "price_krw": 23736,
+        "discount_rate": 25
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 57.72,
+      "currency": "MYR",
+      "price_krw": 16740,
+      "discount_rate": 10
+    },
+    "max_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 73.68,
+      "currency": "SGD",
+      "price_krw": 71468,
+      "discount_rate": 0
+    },
+    "price_difference_krw": 54728,
+    "price_difference_pct": 76.6,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 24,
+    "prices": [
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 1037.64,
+        "currency": "THB",
+        "price_krw": 38392,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 221.57,
+        "currency": "MYR",
+        "price_krw": 64256,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 93.11,
+        "currency": "MYR",
+        "price_krw": 27001,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 77.94,
+        "currency": "SGD",
+        "price_krw": 75604,
+        "discount_rate": 0
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 93.11,
+      "currency": "MYR",
+      "price_krw": 27001,
+      "discount_rate": 0
+    },
+    "max_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 77.94,
+      "currency": "SGD",
+      "price_krw": 75604,
+      "discount_rate": 0
+    },
+    "price_difference_krw": 48603,
+    "price_difference_pct": 64.3,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 25,
+    "prices": [
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 67.15,
+        "currency": "SGD",
+        "price_krw": 65131,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 96.19,
+        "currency": "MYR",
+        "price_krw": 27895,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 102.47,
+        "currency": "MYR",
+        "price_krw": 29715,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 3802.61,
+        "currency": "JPY",
+        "price_krw": 34223,
+        "discount_rate": 50
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 96.19,
+      "currency": "MYR",
+      "price_krw": 27895,
+      "discount_rate": 40
+    },
+    "max_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 67.15,
+      "currency": "SGD",
+      "price_krw": 65131,
+      "discount_rate": 10
+    },
+    "price_difference_krw": 37236,
+    "price_difference_pct": 57.2,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 26,
+    "prices": [
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 6043.3,
+        "currency": "JPY",
+        "price_krw": 54389,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 102.83,
+        "currency": "MYR",
+        "price_krw": 29820,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 42.5,
+        "currency": "SGD",
+        "price_krw": 41222,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 1259.53,
+        "currency": "THB",
+        "price_krw": 46602,
+        "discount_rate": 40
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 102.83,
+      "currency": "MYR",
+      "price_krw": 29820,
+      "discount_rate": 20
+    },
+    "max_price": {
+      "platform": "Amazon Japan",
+      "country": "JP",
+      "price": 6043.3,
+      "currency": "JPY",
+      "price_krw": 54389,
+      "discount_rate": 10
+    },
+    "price_difference_krw": 24569,
+    "price_difference_pct": 45.2,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 27,
+    "prices": [
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 802.5,
+        "currency": "THB",
+        "price_krw": 29692,
+        "discount_rate": 25
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 17.36,
+        "currency": "SGD",
+        "price_krw": 16838,
+        "discount_rate": 50
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 17.36,
+      "currency": "SGD",
+      "price_krw": 16838,
+      "discount_rate": 50
+    },
+    "max_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 802.5,
+      "currency": "THB",
+      "price_krw": 29692,
+      "discount_rate": 25
+    },
+    "price_difference_krw": 12854,
+    "price_difference_pct": 43.3,
+    "num_platforms": 2
+  },
+  {
+    "product_id": 28,
+    "prices": [
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 17.22,
+        "currency": "SGD",
+        "price_krw": 16706,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 40.87,
+        "currency": "SGD",
+        "price_krw": 39644,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 236.4,
+        "currency": "MYR",
+        "price_krw": 68554,
+        "discount_rate": 5
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 17.22,
+      "currency": "SGD",
+      "price_krw": 16706,
+      "discount_rate": 30
+    },
+    "max_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 236.4,
+      "currency": "MYR",
+      "price_krw": 68554,
+      "discount_rate": 5
+    },
+    "price_difference_krw": 51848,
+    "price_difference_pct": 75.6,
+    "num_platforms": 3
+  },
+  {
+    "product_id": 29,
+    "prices": [
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 44.15,
+        "currency": "SGD",
+        "price_krw": 42822,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 7437.87,
+        "currency": "JPY",
+        "price_krw": 66940,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 125.73,
+        "currency": "MYR",
+        "price_krw": 36461,
+        "discount_rate": 15
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 125.73,
+      "currency": "MYR",
+      "price_krw": 36461,
+      "discount_rate": 15
+    },
+    "max_price": {
+      "platform": "Amazon Japan",
+      "country": "JP",
+      "price": 7437.87,
+      "currency": "JPY",
+      "price_krw": 66940,
+      "discount_rate": 5
+    },
+    "price_difference_krw": 30479,
+    "price_difference_pct": 45.5,
+    "num_platforms": 3
+  },
+  {
+    "product_id": 30,
+    "prices": [
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 1508.37,
+        "currency": "THB",
+        "price_krw": 55809,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 25.88,
+        "currency": "SGD",
+        "price_krw": 25105,
+        "discount_rate": 50
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 25.17,
+        "currency": "USD",
+        "price_krw": 32723,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 27.8,
+        "currency": "SGD",
+        "price_krw": 26970,
+        "discount_rate": 40
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 25.88,
+      "currency": "SGD",
+      "price_krw": 25105,
+      "discount_rate": 50
+    },
+    "max_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 1508.37,
+      "currency": "THB",
+      "price_krw": 55809,
+      "discount_rate": 5
+    },
+    "price_difference_krw": 30704,
+    "price_difference_pct": 55.0,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 31,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 158.65,
+        "currency": "MYR",
+        "price_krw": 46008,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 26.0,
+        "currency": "SGD",
+        "price_krw": 25218,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 10.92,
+        "currency": "SGD",
+        "price_krw": 10592,
+        "discount_rate": 20
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 10.92,
+      "currency": "SGD",
+      "price_krw": 10592,
+      "discount_rate": 20
+    },
+    "max_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 158.65,
+      "currency": "MYR",
+      "price_krw": 46008,
+      "discount_rate": 30
+    },
+    "price_difference_krw": 35416,
+    "price_difference_pct": 77.0,
+    "num_platforms": 3
+  },
+  {
+    "product_id": 32,
+    "prices": [
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 7153.9,
+        "currency": "JPY",
+        "price_krw": 64385,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 949.01,
+        "currency": "THB",
+        "price_krw": 35113,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 126.2,
+        "currency": "MYR",
+        "price_krw": 36598,
+        "discount_rate": 50
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 176.48,
+        "currency": "MYR",
+        "price_krw": 51179,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 27.3,
+        "currency": "USD",
+        "price_krw": 35487,
+        "discount_rate": 10
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 949.01,
+      "currency": "THB",
+      "price_krw": 35113,
+      "discount_rate": 15
+    },
+    "max_price": {
+      "platform": "Amazon Japan",
+      "country": "JP",
+      "price": 7153.9,
+      "currency": "JPY",
+      "price_krw": 64385,
+      "discount_rate": 10
+    },
+    "price_difference_krw": 29272,
+    "price_difference_pct": 45.5,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 33,
+    "prices": [
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 56.09,
+        "currency": "SGD",
+        "price_krw": 54407,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 3343.6,
+        "currency": "JPY",
+        "price_krw": 30092,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 161.16,
+        "currency": "MYR",
+        "price_krw": 46736,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 35.6,
+        "currency": "USD",
+        "price_krw": 46280,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 8.87,
+        "currency": "SGD",
+        "price_krw": 8608,
+        "discount_rate": 20
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 8.87,
+      "currency": "SGD",
+      "price_krw": 8608,
+      "discount_rate": 20
+    },
+    "max_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 56.09,
+      "currency": "SGD",
+      "price_krw": 54407,
+      "discount_rate": 10
+    },
+    "price_difference_krw": 45799,
+    "price_difference_pct": 84.2,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 34,
+    "prices": [
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 33.89,
+        "currency": "SGD",
+        "price_krw": 32877,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 12.05,
+        "currency": "USD",
+        "price_krw": 15670,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 63.13,
+        "currency": "MYR",
+        "price_krw": 18306,
+        "discount_rate": 25
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 12.05,
+      "currency": "USD",
+      "price_krw": 15670,
+      "discount_rate": 20
+    },
+    "max_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 33.89,
+      "currency": "SGD",
+      "price_krw": 32877,
+      "discount_rate": 10
+    },
+    "price_difference_krw": 17207,
+    "price_difference_pct": 52.3,
+    "num_platforms": 3
+  },
+  {
+    "product_id": 35,
+    "prices": [
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 1991.78,
+        "currency": "JPY",
+        "price_krw": 17926,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 221.78,
+        "currency": "MYR",
+        "price_krw": 64317,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 1068.05,
+        "currency": "THB",
+        "price_krw": 39517,
+        "discount_rate": 50
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 36.17,
+        "currency": "USD",
+        "price_krw": 47014,
+        "discount_rate": 5
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon Japan",
+      "country": "JP",
+      "price": 1991.78,
+      "currency": "JPY",
+      "price_krw": 17926,
+      "discount_rate": 0
+    },
+    "max_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 221.78,
+      "currency": "MYR",
+      "price_krw": 64317,
+      "discount_rate": 0
+    },
+    "price_difference_krw": 46391,
+    "price_difference_pct": 72.1,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 36,
+    "prices": [
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 54.49,
+        "currency": "USD",
+        "price_krw": 70843,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 7937.0,
+        "currency": "JPY",
+        "price_krw": 71433,
+        "discount_rate": 10
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 54.49,
+      "currency": "USD",
+      "price_krw": 70843,
+      "discount_rate": 5
+    },
+    "max_price": {
+      "platform": "Amazon Japan",
+      "country": "JP",
+      "price": 7937.0,
+      "currency": "JPY",
+      "price_krw": 71433,
+      "discount_rate": 10
+    },
+    "price_difference_krw": 590,
+    "price_difference_pct": 0.8,
+    "num_platforms": 2
+  },
+  {
+    "product_id": 37,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 88.24,
+        "currency": "MYR",
+        "price_krw": 25588,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 34.89,
+        "currency": "SGD",
+        "price_krw": 33847,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 524.41,
+        "currency": "THB",
+        "price_krw": 19403,
+        "discount_rate": 0
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 524.41,
+      "currency": "THB",
+      "price_krw": 19403,
+      "discount_rate": 0
+    },
+    "max_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 34.89,
+      "currency": "SGD",
+      "price_krw": 33847,
+      "discount_rate": 5
+    },
+    "price_difference_krw": 14444,
+    "price_difference_pct": 42.7,
+    "num_platforms": 3
+  },
+  {
+    "product_id": 38,
+    "prices": [
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 18.44,
+        "currency": "SGD",
+        "price_krw": 17887,
+        "discount_rate": 50
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 7.39,
+        "currency": "USD",
+        "price_krw": 9611,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 56.47,
+        "currency": "MYR",
+        "price_krw": 16376,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 38.69,
+        "currency": "SGD",
+        "price_krw": 37528,
+        "discount_rate": 50
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 7.39,
+      "currency": "USD",
+      "price_krw": 9611,
+      "discount_rate": 15
+    },
+    "max_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 38.69,
+      "currency": "SGD",
+      "price_krw": 37528,
+      "discount_rate": 50
+    },
+    "price_difference_krw": 27917,
+    "price_difference_pct": 74.4,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 39,
+    "prices": [
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 1453.42,
+        "currency": "THB",
+        "price_krw": 53776,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 155.02,
+        "currency": "MYR",
+        "price_krw": 44955,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 60.68,
+        "currency": "MYR",
+        "price_krw": 17595,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 46.49,
+        "currency": "SGD",
+        "price_krw": 45095,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 45.29,
+        "currency": "SGD",
+        "price_krw": 43931,
+        "discount_rate": 0
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 60.68,
+      "currency": "MYR",
+      "price_krw": 17595,
+      "discount_rate": 30
+    },
+    "max_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 1453.42,
+      "currency": "THB",
+      "price_krw": 53776,
+      "discount_rate": 5
+    },
+    "price_difference_krw": 36181,
+    "price_difference_pct": 67.3,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 40,
+    "prices": [
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 5.04,
+        "currency": "USD",
+        "price_krw": 6551,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 659.21,
+        "currency": "THB",
+        "price_krw": 24390,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 142.27,
+        "currency": "MYR",
+        "price_krw": 41257,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 18.77,
+        "currency": "SGD",
+        "price_krw": 18208,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 155.76,
+        "currency": "MYR",
+        "price_krw": 45169,
+        "discount_rate": 40
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 5.04,
+      "currency": "USD",
+      "price_krw": 6551,
+      "discount_rate": 40
+    },
+    "max_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 155.76,
+      "currency": "MYR",
+      "price_krw": 45169,
+      "discount_rate": 40
+    },
+    "price_difference_krw": 38618,
+    "price_difference_pct": 85.5,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 41,
+    "prices": [
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 96.27,
+        "currency": "MYR",
+        "price_krw": 27917,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 402.0,
+        "currency": "THB",
+        "price_krw": 14874,
+        "discount_rate": 50
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 23.55,
+        "currency": "SGD",
+        "price_krw": 22843,
+        "discount_rate": 20
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 402.0,
+      "currency": "THB",
+      "price_krw": 14874,
+      "discount_rate": 50
+    },
+    "max_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 96.27,
+      "currency": "MYR",
+      "price_krw": 27917,
+      "discount_rate": 30
+    },
+    "price_difference_krw": 13043,
+    "price_difference_pct": 46.7,
+    "num_platforms": 3
+  },
+  {
+    "product_id": 42,
+    "prices": [
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 2885.78,
+        "currency": "JPY",
+        "price_krw": 25972,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 80.84,
+        "currency": "MYR",
+        "price_krw": 23442,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 485.81,
+        "currency": "THB",
+        "price_krw": 17975,
+        "discount_rate": 50
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 30.57,
+        "currency": "SGD",
+        "price_krw": 29656,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 49.86,
+        "currency": "MYR",
+        "price_krw": 14460,
+        "discount_rate": 40
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 49.86,
+      "currency": "MYR",
+      "price_krw": 14460,
+      "discount_rate": 40
+    },
+    "max_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 30.57,
+      "currency": "SGD",
+      "price_krw": 29656,
+      "discount_rate": 0
+    },
+    "price_difference_krw": 15196,
+    "price_difference_pct": 51.2,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 43,
+    "prices": [
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 37.6,
+        "currency": "USD",
+        "price_krw": 48885,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 39.31,
+        "currency": "SGD",
+        "price_krw": 38126,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 155.33,
+        "currency": "MYR",
+        "price_krw": 45046,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 161.8,
+        "currency": "MYR",
+        "price_krw": 46921,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 1295.98,
+        "currency": "THB",
+        "price_krw": 47951,
+        "discount_rate": 25
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 39.31,
+      "currency": "SGD",
+      "price_krw": 38126,
+      "discount_rate": 30
+    },
+    "max_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 37.6,
+      "currency": "USD",
+      "price_krw": 48885,
+      "discount_rate": 30
+    },
+    "price_difference_krw": 10759,
+    "price_difference_pct": 22.0,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 44,
+    "prices": [
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 13.12,
+        "currency": "USD",
+        "price_krw": 17061,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 106.94,
+        "currency": "MYR",
+        "price_krw": 31011,
+        "discount_rate": 25
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 37.41,
+        "currency": "MYR",
+        "price_krw": 10850,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 23.43,
+        "currency": "SGD",
+        "price_krw": 22731,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 1032.75,
+        "currency": "JPY",
+        "price_krw": 9294,
+        "discount_rate": 15
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon Japan",
+      "country": "JP",
+      "price": 1032.75,
+      "currency": "JPY",
+      "price_krw": 9294,
+      "discount_rate": 15
+    },
+    "max_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 106.94,
+      "currency": "MYR",
+      "price_krw": 31011,
+      "discount_rate": 25
+    },
+    "price_difference_krw": 21717,
+    "price_difference_pct": 70.0,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 45,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 98.55,
+        "currency": "MYR",
+        "price_krw": 28578,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 4058.07,
+        "currency": "JPY",
+        "price_krw": 36522,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 59.01,
+        "currency": "MYR",
+        "price_krw": 17112,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 43.35,
+        "currency": "SGD",
+        "price_krw": 42046,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 22.55,
+        "currency": "USD",
+        "price_krw": 29309,
+        "discount_rate": 50
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 59.01,
+      "currency": "MYR",
+      "price_krw": 17112,
+      "discount_rate": 30
+    },
+    "max_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 43.35,
+      "currency": "SGD",
+      "price_krw": 42046,
+      "discount_rate": 30
+    },
+    "price_difference_krw": 24934,
+    "price_difference_pct": 59.3,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 46,
+    "prices": [
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 42.99,
+        "currency": "SGD",
+        "price_krw": 41703,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 119.48,
+        "currency": "MYR",
+        "price_krw": 34648,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 3216.3,
+        "currency": "JPY",
+        "price_krw": 28946,
+        "discount_rate": 10
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon Japan",
+      "country": "JP",
+      "price": 3216.3,
+      "currency": "JPY",
+      "price_krw": 28946,
+      "discount_rate": 10
+    },
+    "max_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 42.99,
+      "currency": "SGD",
+      "price_krw": 41703,
+      "discount_rate": 10
+    },
+    "price_difference_krw": 12757,
+    "price_difference_pct": 30.6,
+    "num_platforms": 3
+  },
+  {
+    "product_id": 47,
+    "prices": [
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 44.67,
+        "currency": "SGD",
+        "price_krw": 43326,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 29.04,
+        "currency": "USD",
+        "price_krw": 37747,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 88.39,
+        "currency": "MYR",
+        "price_krw": 25632,
+        "discount_rate": 40
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 88.39,
+      "currency": "MYR",
+      "price_krw": 25632,
+      "discount_rate": 40
+    },
+    "max_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 44.67,
+      "currency": "SGD",
+      "price_krw": 43326,
+      "discount_rate": 20
+    },
+    "price_difference_krw": 17694,
+    "price_difference_pct": 40.8,
+    "num_platforms": 3
+  },
+  {
+    "product_id": 48,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 204.72,
+        "currency": "MYR",
+        "price_krw": 59370,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 22.16,
+        "currency": "USD",
+        "price_krw": 28804,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 3519.01,
+        "currency": "JPY",
+        "price_krw": 31671,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 32.56,
+        "currency": "SGD",
+        "price_krw": 31580,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 1461.59,
+        "currency": "THB",
+        "price_krw": 54078,
+        "discount_rate": 15
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 22.16,
+      "currency": "USD",
+      "price_krw": 28804,
+      "discount_rate": 30
+    },
+    "max_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 204.72,
+      "currency": "MYR",
+      "price_krw": 59370,
+      "discount_rate": 5
+    },
+    "price_difference_krw": 30566,
+    "price_difference_pct": 51.5,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 49,
+    "prices": [
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 26.18,
+        "currency": "USD",
+        "price_krw": 34029,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 107.57,
+        "currency": "MYR",
+        "price_krw": 31195,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 831.61,
+        "currency": "THB",
+        "price_krw": 30769,
+        "discount_rate": 20
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 831.61,
+      "currency": "THB",
+      "price_krw": 30769,
+      "discount_rate": 20
+    },
+    "max_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 26.18,
+      "currency": "USD",
+      "price_krw": 34029,
+      "discount_rate": 15
+    },
+    "price_difference_krw": 3260,
+    "price_difference_pct": 9.6,
+    "num_platforms": 3
+  },
+  {
+    "product_id": 50,
+    "prices": [
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 166.12,
+        "currency": "MYR",
+        "price_krw": 48174,
+        "discount_rate": 25
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 162.64,
+        "currency": "MYR",
+        "price_krw": 47165,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 16.77,
+        "currency": "USD",
+        "price_krw": 21803,
+        "discount_rate": 25
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 43.8,
+        "currency": "SGD",
+        "price_krw": 42486,
+        "discount_rate": 25
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 398.64,
+        "currency": "THB",
+        "price_krw": 14749,
+        "discount_rate": 30
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 398.64,
+      "currency": "THB",
+      "price_krw": 14749,
+      "discount_rate": 30
+    },
+    "max_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 166.12,
+      "currency": "MYR",
+      "price_krw": 48174,
+      "discount_rate": 25
+    },
+    "price_difference_krw": 33425,
+    "price_difference_pct": 69.4,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 51,
+    "prices": [
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 4526.2,
+        "currency": "JPY",
+        "price_krw": 40735,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 39.49,
+        "currency": "MYR",
+        "price_krw": 11451,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 1159.5,
+        "currency": "THB",
+        "price_krw": 42901,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 26.1,
+        "currency": "USD",
+        "price_krw": 33930,
+        "discount_rate": 40
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 39.49,
+      "currency": "MYR",
+      "price_krw": 11451,
+      "discount_rate": 10
+    },
+    "max_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 1159.5,
+      "currency": "THB",
+      "price_krw": 42901,
+      "discount_rate": 30
+    },
+    "price_difference_krw": 31450,
+    "price_difference_pct": 73.3,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 52,
+    "prices": [
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 42.95,
+        "currency": "MYR",
+        "price_krw": 12456,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 1395.73,
+        "currency": "THB",
+        "price_krw": 51641,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 9.71,
+        "currency": "USD",
+        "price_krw": 12618,
+        "discount_rate": 50
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 42.95,
+      "currency": "MYR",
+      "price_krw": 12456,
+      "discount_rate": 20
+    },
+    "max_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 1395.73,
+      "currency": "THB",
+      "price_krw": 51641,
+      "discount_rate": 5
+    },
+    "price_difference_krw": 39185,
+    "price_difference_pct": 75.9,
+    "num_platforms": 3
+  },
+  {
+    "product_id": 53,
+    "prices": [
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 1348.2,
+        "currency": "THB",
+        "price_krw": 49883,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 73.39,
+        "currency": "MYR",
+        "price_krw": 21282,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 20.12,
+        "currency": "USD",
+        "price_krw": 26154,
+        "discount_rate": 40
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 73.39,
+      "currency": "MYR",
+      "price_krw": 21282,
+      "discount_rate": 30
+    },
+    "max_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 1348.2,
+      "currency": "THB",
+      "price_krw": 49883,
+      "discount_rate": 30
+    },
+    "price_difference_krw": 28601,
+    "price_difference_pct": 57.3,
+    "num_platforms": 3
+  },
+  {
+    "product_id": 54,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 38.55,
+        "currency": "MYR",
+        "price_krw": 11179,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 11.69,
+        "currency": "SGD",
+        "price_krw": 11341,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 37.84,
+        "currency": "SGD",
+        "price_krw": 36708,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 38.9,
+        "currency": "USD",
+        "price_krw": 50576,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 195.61,
+        "currency": "MYR",
+        "price_krw": 56727,
+        "discount_rate": 20
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 38.55,
+      "currency": "MYR",
+      "price_krw": 11179,
+      "discount_rate": 40
+    },
+    "max_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 195.61,
+      "currency": "MYR",
+      "price_krw": 56727,
+      "discount_rate": 20
+    },
+    "price_difference_krw": 45548,
+    "price_difference_pct": 80.3,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 55,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 93.99,
+        "currency": "MYR",
+        "price_krw": 27258,
+        "discount_rate": 50
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 52.46,
+        "currency": "SGD",
+        "price_krw": 50886,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 20.87,
+        "currency": "SGD",
+        "price_krw": 20248,
+        "discount_rate": 25
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 48.52,
+        "currency": "USD",
+        "price_krw": 63080,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 1287.41,
+        "currency": "THB",
+        "price_krw": 47634,
+        "discount_rate": 15
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 20.87,
+      "currency": "SGD",
+      "price_krw": 20248,
+      "discount_rate": 25
+    },
+    "max_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 48.52,
+      "currency": "USD",
+      "price_krw": 63080,
+      "discount_rate": 15
+    },
+    "price_difference_krw": 42832,
+    "price_difference_pct": 67.9,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 56,
+    "prices": [
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 3083.0,
+        "currency": "JPY",
+        "price_krw": 27747,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 947.23,
+        "currency": "THB",
+        "price_krw": 35047,
+        "discount_rate": 30
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon Japan",
+      "country": "JP",
+      "price": 3083.0,
+      "currency": "JPY",
+      "price_krw": 27747,
+      "discount_rate": 10
+    },
+    "max_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 947.23,
+      "currency": "THB",
+      "price_krw": 35047,
+      "discount_rate": 30
+    },
+    "price_difference_krw": 7300,
+    "price_difference_pct": 20.8,
+    "num_platforms": 2
+  },
+  {
+    "product_id": 57,
+    "prices": [
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 46.44,
+        "currency": "SGD",
+        "price_krw": 45042,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 59.12,
+        "currency": "MYR",
+        "price_krw": 17143,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 2337.67,
+        "currency": "JPY",
+        "price_krw": 21039,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 113.33,
+        "currency": "MYR",
+        "price_krw": 32865,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 44.36,
+        "currency": "SGD",
+        "price_krw": 43029,
+        "discount_rate": 40
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 59.12,
+      "currency": "MYR",
+      "price_krw": 17143,
+      "discount_rate": 30
+    },
+    "max_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 46.44,
+      "currency": "SGD",
+      "price_krw": 45042,
+      "discount_rate": 40
+    },
+    "price_difference_krw": 27899,
+    "price_difference_pct": 61.9,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 58,
+    "prices": [
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 1131.9,
+        "currency": "JPY",
+        "price_krw": 10187,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 20.62,
+        "currency": "USD",
+        "price_krw": 26803,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 875.44,
+        "currency": "THB",
+        "price_krw": 32391,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 24.66,
+        "currency": "SGD",
+        "price_krw": 23922,
+        "discount_rate": 30
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon Japan",
+      "country": "JP",
+      "price": 1131.9,
+      "currency": "JPY",
+      "price_krw": 10187,
+      "discount_rate": 30
+    },
+    "max_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 875.44,
+      "currency": "THB",
+      "price_krw": 32391,
+      "discount_rate": 30
+    },
+    "price_difference_krw": 22204,
+    "price_difference_pct": 68.5,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 59,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 146.28,
+        "currency": "MYR",
+        "price_krw": 42421,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 13.47,
+        "currency": "SGD",
+        "price_krw": 13067,
+        "discount_rate": 20
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 13.47,
+      "currency": "SGD",
+      "price_krw": 13067,
+      "discount_rate": 20
+    },
+    "max_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 146.28,
+      "currency": "MYR",
+      "price_krw": 42421,
+      "discount_rate": 15
+    },
+    "price_difference_krw": 29354,
+    "price_difference_pct": 69.2,
+    "num_platforms": 2
+  },
+  {
+    "product_id": 60,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 173.01,
+        "currency": "MYR",
+        "price_krw": 50172,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 3323.56,
+        "currency": "JPY",
+        "price_krw": 29912,
+        "discount_rate": 50
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 15.11,
+        "currency": "SGD",
+        "price_krw": 14655,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 859.95,
+        "currency": "THB",
+        "price_krw": 31818,
+        "discount_rate": 50
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 15.11,
+      "currency": "SGD",
+      "price_krw": 14655,
+      "discount_rate": 20
+    },
+    "max_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 173.01,
+      "currency": "MYR",
+      "price_krw": 50172,
+      "discount_rate": 30
+    },
+    "price_difference_krw": 35517,
+    "price_difference_pct": 70.8,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 61,
+    "prices": [
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 163.7,
+        "currency": "MYR",
+        "price_krw": 47473,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 11.38,
+        "currency": "USD",
+        "price_krw": 14790,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 9.37,
+        "currency": "SGD",
+        "price_krw": 9092,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 3077.28,
+        "currency": "JPY",
+        "price_krw": 27695,
+        "discount_rate": 15
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 9.37,
+      "currency": "SGD",
+      "price_krw": 9092,
+      "discount_rate": 20
+    },
+    "max_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 163.7,
+      "currency": "MYR",
+      "price_krw": 47473,
+      "discount_rate": 40
+    },
+    "price_difference_krw": 38381,
+    "price_difference_pct": 80.8,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 62,
+    "prices": [
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 19.63,
+        "currency": "SGD",
+        "price_krw": 19041,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 5322.93,
+        "currency": "JPY",
+        "price_krw": 47906,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 161.1,
+        "currency": "MYR",
+        "price_krw": 46720,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 30.31,
+        "currency": "USD",
+        "price_krw": 39407,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 73.65,
+        "currency": "SGD",
+        "price_krw": 71440,
+        "discount_rate": 5
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 19.63,
+      "currency": "SGD",
+      "price_krw": 19041,
+      "discount_rate": 40
+    },
+    "max_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 73.65,
+      "currency": "SGD",
+      "price_krw": 71440,
+      "discount_rate": 5
+    },
+    "price_difference_krw": 52399,
+    "price_difference_pct": 73.3,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 63,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 84.33,
+        "currency": "MYR",
+        "price_krw": 24456,
+        "discount_rate": 25
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 40.69,
+        "currency": "SGD",
+        "price_krw": 39472,
+        "discount_rate": 30
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 84.33,
+      "currency": "MYR",
+      "price_krw": 24456,
+      "discount_rate": 25
+    },
+    "max_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 40.69,
+      "currency": "SGD",
+      "price_krw": 39472,
+      "discount_rate": 30
+    },
+    "price_difference_krw": 15016,
+    "price_difference_pct": 38.0,
+    "num_platforms": 2
+  },
+  {
+    "product_id": 64,
+    "prices": [
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 992.94,
+        "currency": "THB",
+        "price_krw": 36738,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 58.57,
+        "currency": "MYR",
+        "price_krw": 16986,
+        "discount_rate": 25
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 58.57,
+      "currency": "MYR",
+      "price_krw": 16986,
+      "discount_rate": 25
+    },
+    "max_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 992.94,
+      "currency": "THB",
+      "price_krw": 36738,
+      "discount_rate": 40
+    },
+    "price_difference_krw": 19752,
+    "price_difference_pct": 53.8,
+    "num_platforms": 2
+  },
+  {
+    "product_id": 65,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 220.72,
+        "currency": "MYR",
+        "price_krw": 64007,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 1716.91,
+        "currency": "THB",
+        "price_krw": 63525,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 20.46,
+        "currency": "USD",
+        "price_krw": 26593,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 4059.07,
+        "currency": "JPY",
+        "price_krw": 36531,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 52.79,
+        "currency": "SGD",
+        "price_krw": 51208,
+        "discount_rate": 20
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 20.46,
+      "currency": "USD",
+      "price_krw": 26593,
+      "discount_rate": 20
+    },
+    "max_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 220.72,
+      "currency": "MYR",
+      "price_krw": 64007,
+      "discount_rate": 15
+    },
+    "price_difference_krw": 37414,
+    "price_difference_pct": 58.5,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 66,
+    "prices": [
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 195.67,
+        "currency": "MYR",
+        "price_krw": 56743,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 24.18,
+        "currency": "SGD",
+        "price_krw": 23451,
+        "discount_rate": 30
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 24.18,
+      "currency": "SGD",
+      "price_krw": 23451,
+      "discount_rate": 30
+    },
+    "max_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 195.67,
+      "currency": "MYR",
+      "price_krw": 56743,
+      "discount_rate": 20
+    },
+    "price_difference_krw": 33292,
+    "price_difference_pct": 58.7,
+    "num_platforms": 2
+  },
+  {
+    "product_id": 67,
+    "prices": [
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 958.65,
+        "currency": "THB",
+        "price_krw": 35470,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 113.17,
+        "currency": "MYR",
+        "price_krw": 32818,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 2007.61,
+        "currency": "JPY",
+        "price_krw": 18068,
+        "discount_rate": 50
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon Japan",
+      "country": "JP",
+      "price": 2007.61,
+      "currency": "JPY",
+      "price_krw": 18068,
+      "discount_rate": 50
+    },
+    "max_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 958.65,
+      "currency": "THB",
+      "price_krw": 35470,
+      "discount_rate": 40
+    },
+    "price_difference_krw": 17402,
+    "price_difference_pct": 49.1,
+    "num_platforms": 3
+  },
+  {
+    "product_id": 68,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 126.06,
+        "currency": "MYR",
+        "price_krw": 36558,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 5325.22,
+        "currency": "JPY",
+        "price_krw": 47927,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 32.53,
+        "currency": "MYR",
+        "price_krw": 9435,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 54.98,
+        "currency": "SGD",
+        "price_krw": 53327,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 840.32,
+        "currency": "THB",
+        "price_krw": 31092,
+        "discount_rate": 25
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 32.53,
+      "currency": "MYR",
+      "price_krw": 9435,
+      "discount_rate": 15
+    },
+    "max_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 54.98,
+      "currency": "SGD",
+      "price_krw": 53327,
+      "discount_rate": 10
+    },
+    "price_difference_krw": 43892,
+    "price_difference_pct": 82.3,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 69,
+    "prices": [
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 38.6,
+        "currency": "SGD",
+        "price_krw": 37446,
+        "discount_rate": 25
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 117.29,
+        "currency": "MYR",
+        "price_krw": 34015,
+        "discount_rate": 15
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 117.29,
+      "currency": "MYR",
+      "price_krw": 34015,
+      "discount_rate": 15
+    },
+    "max_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 38.6,
+      "currency": "SGD",
+      "price_krw": 37446,
+      "discount_rate": 25
+    },
+    "price_difference_krw": 3431,
+    "price_difference_pct": 9.2,
+    "num_platforms": 2
+  },
+  {
+    "product_id": 70,
+    "prices": [
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 46.63,
+        "currency": "USD",
+        "price_krw": 60619,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 46.81,
+        "currency": "SGD",
+        "price_krw": 45408,
+        "discount_rate": 10
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 46.81,
+      "currency": "SGD",
+      "price_krw": 45408,
+      "discount_rate": 10
+    },
+    "max_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 46.63,
+      "currency": "USD",
+      "price_krw": 60619,
+      "discount_rate": 10
+    },
+    "price_difference_krw": 15211,
+    "price_difference_pct": 25.1,
+    "num_platforms": 2
+  },
+  {
+    "product_id": 71,
+    "prices": [
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 40.04,
+        "currency": "USD",
+        "price_krw": 52049,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 237.4,
+        "currency": "MYR",
+        "price_krw": 68846,
+        "discount_rate": 10
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 40.04,
+      "currency": "USD",
+      "price_krw": 52049,
+      "discount_rate": 0
+    },
+    "max_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 237.4,
+      "currency": "MYR",
+      "price_krw": 68846,
+      "discount_rate": 10
+    },
+    "price_difference_krw": 16797,
+    "price_difference_pct": 24.4,
+    "num_platforms": 2
+  },
+  {
+    "product_id": 72,
+    "prices": [
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 763.83,
+        "currency": "THB",
+        "price_krw": 28261,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 98.29,
+        "currency": "MYR",
+        "price_krw": 28502,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 1486.92,
+        "currency": "JPY",
+        "price_krw": 13382,
+        "discount_rate": 25
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon Japan",
+      "country": "JP",
+      "price": 1486.92,
+      "currency": "JPY",
+      "price_krw": 13382,
+      "discount_rate": 25
+    },
+    "max_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 98.29,
+      "currency": "MYR",
+      "price_krw": 28502,
+      "discount_rate": 5
+    },
+    "price_difference_krw": 15120,
+    "price_difference_pct": 53.0,
+    "num_platforms": 3
+  },
+  {
+    "product_id": 73,
+    "prices": [
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 6278.44,
+        "currency": "JPY",
+        "price_krw": 56506,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 80.9,
+        "currency": "MYR",
+        "price_krw": 23461,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 561.52,
+        "currency": "THB",
+        "price_krw": 20776,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 24.12,
+        "currency": "USD",
+        "price_krw": 31360,
+        "discount_rate": 20
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 561.52,
+      "currency": "THB",
+      "price_krw": 20776,
+      "discount_rate": 40
+    },
+    "max_price": {
+      "platform": "Amazon Japan",
+      "country": "JP",
+      "price": 6278.44,
+      "currency": "JPY",
+      "price_krw": 56506,
+      "discount_rate": 5
+    },
+    "price_difference_krw": 35730,
+    "price_difference_pct": 63.2,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 74,
+    "prices": [
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 11.83,
+        "currency": "USD",
+        "price_krw": 15377,
+        "discount_rate": 50
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 763.97,
+        "currency": "THB",
+        "price_krw": 28266,
+        "discount_rate": 15
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 11.83,
+      "currency": "USD",
+      "price_krw": 15377,
+      "discount_rate": 50
+    },
+    "max_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 763.97,
+      "currency": "THB",
+      "price_krw": 28266,
+      "discount_rate": 15
+    },
+    "price_difference_krw": 12889,
+    "price_difference_pct": 45.6,
+    "num_platforms": 2
+  },
+  {
+    "product_id": 75,
+    "prices": [
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 35.79,
+        "currency": "SGD",
+        "price_krw": 34720,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 955.65,
+        "currency": "THB",
+        "price_krw": 35359,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 29.33,
+        "currency": "SGD",
+        "price_krw": 28447,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 58.04,
+        "currency": "MYR",
+        "price_krw": 16831,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 38.03,
+        "currency": "USD",
+        "price_krw": 49444,
+        "discount_rate": 25
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 58.04,
+      "currency": "MYR",
+      "price_krw": 16831,
+      "discount_rate": 10
+    },
+    "max_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 38.03,
+      "currency": "USD",
+      "price_krw": 49444,
+      "discount_rate": 25
+    },
+    "price_difference_krw": 32613,
+    "price_difference_pct": 66.0,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 76,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 109.57,
+        "currency": "MYR",
+        "price_krw": 31775,
+        "discount_rate": 25
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 20.12,
+        "currency": "SGD",
+        "price_krw": 19520,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 182.58,
+        "currency": "MYR",
+        "price_krw": 52948,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 682.51,
+        "currency": "THB",
+        "price_krw": 25253,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 6486.31,
+        "currency": "JPY",
+        "price_krw": 58376,
+        "discount_rate": 20
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 20.12,
+      "currency": "SGD",
+      "price_krw": 19520,
+      "discount_rate": 30
+    },
+    "max_price": {
+      "platform": "Amazon Japan",
+      "country": "JP",
+      "price": 6486.31,
+      "currency": "JPY",
+      "price_krw": 58376,
+      "discount_rate": 20
+    },
+    "price_difference_krw": 38856,
+    "price_difference_pct": 66.6,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 77,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 75.52,
+        "currency": "MYR",
+        "price_krw": 21901,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 18.81,
+        "currency": "USD",
+        "price_krw": 24449,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 328.81,
+        "currency": "THB",
+        "price_krw": 12166,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 63.18,
+        "currency": "SGD",
+        "price_krw": 61285,
+        "discount_rate": 0
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 328.81,
+      "currency": "THB",
+      "price_krw": 12166,
+      "discount_rate": 0
+    },
+    "max_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 63.18,
+      "currency": "SGD",
+      "price_krw": 61285,
+      "discount_rate": 0
+    },
+    "price_difference_krw": 49119,
+    "price_difference_pct": 80.1,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 78,
+    "prices": [
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 60.83,
+        "currency": "SGD",
+        "price_krw": 59009,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 12.1,
+        "currency": "SGD",
+        "price_krw": 11735,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 930.04,
+        "currency": "THB",
+        "price_krw": 34411,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 18.0,
+        "currency": "USD",
+        "price_krw": 23401,
+        "discount_rate": 10
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 12.1,
+      "currency": "SGD",
+      "price_krw": 11735,
+      "discount_rate": 20
+    },
+    "max_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 60.83,
+      "currency": "SGD",
+      "price_krw": 59009,
+      "discount_rate": 20
+    },
+    "price_difference_krw": 47274,
+    "price_difference_pct": 80.1,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 79,
+    "prices": [
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 41.27,
+        "currency": "SGD",
+        "price_krw": 40028,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 7.87,
+        "currency": "USD",
+        "price_krw": 10228,
+        "discount_rate": 50
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 32.23,
+        "currency": "SGD",
+        "price_krw": 31260,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 4236.67,
+        "currency": "JPY",
+        "price_krw": 38130,
+        "discount_rate": 50
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 7.87,
+      "currency": "USD",
+      "price_krw": 10228,
+      "discount_rate": 50
+    },
+    "max_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 41.27,
+      "currency": "SGD",
+      "price_krw": 40028,
+      "discount_rate": 15
+    },
+    "price_difference_krw": 29800,
+    "price_difference_pct": 74.4,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 80,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 92.72,
+        "currency": "MYR",
+        "price_krw": 26889,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 40.13,
+        "currency": "SGD",
+        "price_krw": 38923,
+        "discount_rate": 50
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 108.63,
+        "currency": "MYR",
+        "price_krw": 31502,
+        "discount_rate": 25
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 92.72,
+      "currency": "MYR",
+      "price_krw": 26889,
+      "discount_rate": 20
+    },
+    "max_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 40.13,
+      "currency": "SGD",
+      "price_krw": 38923,
+      "discount_rate": 50
+    },
+    "price_difference_krw": 12034,
+    "price_difference_pct": 30.9,
+    "num_platforms": 3
+  },
+  {
+    "product_id": 81,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 249.56,
+        "currency": "MYR",
+        "price_krw": 72371,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 160.33,
+        "currency": "MYR",
+        "price_krw": 46495,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 24.91,
+        "currency": "SGD",
+        "price_krw": 24167,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 51.86,
+        "currency": "USD",
+        "price_krw": 67418,
+        "discount_rate": 15
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 24.91,
+      "currency": "SGD",
+      "price_krw": 24167,
+      "discount_rate": 15
+    },
+    "max_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 249.56,
+      "currency": "MYR",
+      "price_krw": 72371,
+      "discount_rate": 0
+    },
+    "price_difference_krw": 48204,
+    "price_difference_pct": 66.6,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 82,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 61.16,
+        "currency": "MYR",
+        "price_krw": 17735,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 2945.5,
+        "currency": "JPY",
+        "price_krw": 26509,
+        "discount_rate": 50
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 12.83,
+        "currency": "SGD",
+        "price_krw": 12445,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 19.85,
+        "currency": "USD",
+        "price_krw": 25801,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 22.19,
+        "currency": "SGD",
+        "price_krw": 21527,
+        "discount_rate": 30
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 12.83,
+      "currency": "SGD",
+      "price_krw": 12445,
+      "discount_rate": 40
+    },
+    "max_price": {
+      "platform": "Amazon Japan",
+      "country": "JP",
+      "price": 2945.5,
+      "currency": "JPY",
+      "price_krw": 26509,
+      "discount_rate": 50
+    },
+    "price_difference_krw": 14064,
+    "price_difference_pct": 53.1,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 83,
+    "prices": [
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 37.51,
+        "currency": "SGD",
+        "price_krw": 36383,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 19.19,
+        "currency": "USD",
+        "price_krw": 24945,
+        "discount_rate": 50
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 114.66,
+        "currency": "MYR",
+        "price_krw": 33252,
+        "discount_rate": 5
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 19.19,
+      "currency": "USD",
+      "price_krw": 24945,
+      "discount_rate": 50
+    },
+    "max_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 37.51,
+      "currency": "SGD",
+      "price_krw": 36383,
+      "discount_rate": 40
+    },
+    "price_difference_krw": 11438,
+    "price_difference_pct": 31.4,
+    "num_platforms": 3
+  },
+  {
+    "product_id": 84,
+    "prices": [
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 200.1,
+        "currency": "MYR",
+        "price_krw": 58028,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 15.03,
+        "currency": "SGD",
+        "price_krw": 14583,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 52.7,
+        "currency": "MYR",
+        "price_krw": 15283,
+        "discount_rate": 10
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 15.03,
+      "currency": "SGD",
+      "price_krw": 14583,
+      "discount_rate": 15
+    },
+    "max_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 200.1,
+      "currency": "MYR",
+      "price_krw": 58028,
+      "discount_rate": 5
+    },
+    "price_difference_krw": 43445,
+    "price_difference_pct": 74.9,
+    "num_platforms": 3
+  },
+  {
+    "product_id": 85,
+    "prices": [
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 92.18,
+        "currency": "MYR",
+        "price_krw": 26732,
+        "discount_rate": 50
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 25.26,
+        "currency": "SGD",
+        "price_krw": 24505,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 39.91,
+        "currency": "MYR",
+        "price_krw": 11575,
+        "discount_rate": 50
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 39.91,
+      "currency": "MYR",
+      "price_krw": 11575,
+      "discount_rate": 50
+    },
+    "max_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 92.18,
+      "currency": "MYR",
+      "price_krw": 26732,
+      "discount_rate": 50
+    },
+    "price_difference_krw": 15157,
+    "price_difference_pct": 56.7,
+    "num_platforms": 3
+  },
+  {
+    "product_id": 86,
+    "prices": [
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 81.85,
+        "currency": "SGD",
+        "price_krw": 79390,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 35.14,
+        "currency": "MYR",
+        "price_krw": 10189,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 1737.96,
+        "currency": "JPY",
+        "price_krw": 15641,
+        "discount_rate": 20
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 35.14,
+      "currency": "MYR",
+      "price_krw": 10189,
+      "discount_rate": 40
+    },
+    "max_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 81.85,
+      "currency": "SGD",
+      "price_krw": 79390,
+      "discount_rate": 0
+    },
+    "price_difference_krw": 69201,
+    "price_difference_pct": 87.2,
+    "num_platforms": 3
+  },
+  {
+    "product_id": 87,
+    "prices": [
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 157.31,
+        "currency": "MYR",
+        "price_krw": 45621,
+        "discount_rate": 25
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 32.6,
+        "currency": "USD",
+        "price_krw": 42386,
+        "discount_rate": 10
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 32.6,
+      "currency": "USD",
+      "price_krw": 42386,
+      "discount_rate": 10
+    },
+    "max_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 157.31,
+      "currency": "MYR",
+      "price_krw": 45621,
+      "discount_rate": 25
+    },
+    "price_difference_krw": 3235,
+    "price_difference_pct": 7.1,
+    "num_platforms": 2
+  },
+  {
+    "product_id": 88,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 194.95,
+        "currency": "MYR",
+        "price_krw": 56535,
+        "discount_rate": 25
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 36.47,
+        "currency": "USD",
+        "price_krw": 47416,
+        "discount_rate": 25
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 36.47,
+      "currency": "USD",
+      "price_krw": 47416,
+      "discount_rate": 25
+    },
+    "max_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 194.95,
+      "currency": "MYR",
+      "price_krw": 56535,
+      "discount_rate": 25
+    },
+    "price_difference_krw": 9119,
+    "price_difference_pct": 16.1,
+    "num_platforms": 2
+  },
+  {
+    "product_id": 89,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 188.25,
+        "currency": "MYR",
+        "price_krw": 54591,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 198.47,
+        "currency": "MYR",
+        "price_krw": 57557,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 15.05,
+        "currency": "SGD",
+        "price_krw": 14602,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 2402.23,
+        "currency": "JPY",
+        "price_krw": 21620,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 24.88,
+        "currency": "USD",
+        "price_krw": 32338,
+        "discount_rate": 25
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 15.05,
+      "currency": "SGD",
+      "price_krw": 14602,
+      "discount_rate": 40
+    },
+    "max_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 198.47,
+      "currency": "MYR",
+      "price_krw": 57557,
+      "discount_rate": 5
+    },
+    "price_difference_krw": 42955,
+    "price_difference_pct": 74.6,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 90,
+    "prices": [
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 4065.7,
+        "currency": "JPY",
+        "price_krw": 36591,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 175.6,
+        "currency": "MYR",
+        "price_krw": 50922,
+        "discount_rate": 25
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 2033.49,
+        "currency": "THB",
+        "price_krw": 75239,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 21.69,
+        "currency": "SGD",
+        "price_krw": 21040,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 54.49,
+        "currency": "SGD",
+        "price_krw": 52855,
+        "discount_rate": 0
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 21.69,
+      "currency": "SGD",
+      "price_krw": 21040,
+      "discount_rate": 0
+    },
+    "max_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 2033.49,
+      "currency": "THB",
+      "price_krw": 75239,
+      "discount_rate": 0
+    },
+    "price_difference_krw": 54199,
+    "price_difference_pct": 72.0,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 91,
+    "prices": [
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 40.39,
+        "currency": "USD",
+        "price_krw": 52503,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 219.28,
+        "currency": "MYR",
+        "price_krw": 63591,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 37.34,
+        "currency": "SGD",
+        "price_krw": 36220,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 1496.9,
+        "currency": "JPY",
+        "price_krw": 13472,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 1376.33,
+        "currency": "THB",
+        "price_krw": 50924,
+        "discount_rate": 15
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon Japan",
+      "country": "JP",
+      "price": 1496.9,
+      "currency": "JPY",
+      "price_krw": 13472,
+      "discount_rate": 10
+    },
+    "max_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 219.28,
+      "currency": "MYR",
+      "price_krw": 63591,
+      "discount_rate": 15
+    },
+    "price_difference_krw": 50119,
+    "price_difference_pct": 78.8,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 92,
+    "prices": [
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 1663.91,
+        "currency": "THB",
+        "price_krw": 61564,
+        "discount_rate": 10
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 23.28,
+        "currency": "SGD",
+        "price_krw": 22584,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 74.07,
+        "currency": "SGD",
+        "price_krw": 71847,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 4717.7,
+        "currency": "JPY",
+        "price_krw": 42459,
+        "discount_rate": 10
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 23.28,
+      "currency": "SGD",
+      "price_krw": 22584,
+      "discount_rate": 30
+    },
+    "max_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 74.07,
+      "currency": "SGD",
+      "price_krw": 71847,
+      "discount_rate": 5
+    },
+    "price_difference_krw": 49263,
+    "price_difference_pct": 68.6,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 93,
+    "prices": [
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 3766.87,
+        "currency": "JPY",
+        "price_krw": 33901,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 9.48,
+        "currency": "SGD",
+        "price_krw": 9195,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 60.51,
+        "currency": "SGD",
+        "price_krw": 58692,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 32.56,
+        "currency": "USD",
+        "price_krw": 42323,
+        "discount_rate": 10
+      }
+    ],
+    "min_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 9.48,
+      "currency": "SGD",
+      "price_krw": 9195,
+      "discount_rate": 40
+    },
+    "max_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 60.51,
+      "currency": "SGD",
+      "price_krw": 58692,
+      "discount_rate": 15
+    },
+    "price_difference_krw": 49497,
+    "price_difference_pct": 84.3,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 94,
+    "prices": [
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 30.53,
+        "currency": "SGD",
+        "price_krw": 29614,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 47.48,
+        "currency": "USD",
+        "price_krw": 61721,
+        "discount_rate": 20
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Singapore",
+      "country": "SG",
+      "price": 30.53,
+      "currency": "SGD",
+      "price_krw": 29614,
+      "discount_rate": 20
+    },
+    "max_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 47.48,
+      "currency": "USD",
+      "price_krw": 61721,
+      "discount_rate": 20
+    },
+    "price_difference_krw": 32107,
+    "price_difference_pct": 52.0,
+    "num_platforms": 2
+  },
+  {
+    "product_id": 95,
+    "prices": [
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 226.0,
+        "currency": "MYR",
+        "price_krw": 65541,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 127.9,
+        "currency": "MYR",
+        "price_krw": 37090,
+        "discount_rate": 25
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 55.35,
+        "currency": "SGD",
+        "price_krw": 53693,
+        "discount_rate": 15
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 127.9,
+      "currency": "MYR",
+      "price_krw": 37090,
+      "discount_rate": 25
+    },
+    "max_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 226.0,
+      "currency": "MYR",
+      "price_krw": 65541,
+      "discount_rate": 0
+    },
+    "price_difference_krw": 28451,
+    "price_difference_pct": 43.4,
+    "num_platforms": 3
+  },
+  {
+    "product_id": 96,
+    "prices": [
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 983.94,
+        "currency": "THB",
+        "price_krw": 36405,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 19.6,
+        "currency": "USD",
+        "price_krw": 25476,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 93.8,
+        "currency": "MYR",
+        "price_krw": 27201,
+        "discount_rate": 25
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 6299.47,
+        "currency": "JPY",
+        "price_krw": 56695,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Qoo10 Singapore",
+        "country": "SG",
+        "price": 69.91,
+        "currency": "SGD",
+        "price_krw": 67815,
+        "discount_rate": 0
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 19.6,
+      "currency": "USD",
+      "price_krw": 25476,
+      "discount_rate": 40
+    },
+    "max_price": {
+      "platform": "Qoo10 Singapore",
+      "country": "SG",
+      "price": 69.91,
+      "currency": "SGD",
+      "price_krw": 67815,
+      "discount_rate": 0
+    },
+    "price_difference_krw": 42339,
+    "price_difference_pct": 62.4,
+    "num_platforms": 5
+  },
+  {
+    "product_id": 97,
+    "prices": [
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 323.74,
+        "currency": "THB",
+        "price_krw": 11978,
+        "discount_rate": 5
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 42.74,
+        "currency": "USD",
+        "price_krw": 55556,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 54.58,
+        "currency": "SGD",
+        "price_krw": 52942,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Amazon Japan",
+        "country": "JP",
+        "price": 5060.8,
+        "currency": "JPY",
+        "price_krw": 45547,
+        "discount_rate": 20
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 323.74,
+      "currency": "THB",
+      "price_krw": 11978,
+      "discount_rate": 5
+    },
+    "max_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 42.74,
+      "currency": "USD",
+      "price_krw": 55556,
+      "discount_rate": 20
+    },
+    "price_difference_krw": 43578,
+    "price_difference_pct": 78.4,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 98,
+    "prices": [
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 23.3,
+        "currency": "USD",
+        "price_krw": 30292,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Shopee Singapore",
+        "country": "SG",
+        "price": 44.37,
+        "currency": "SGD",
+        "price_krw": 43036,
+        "discount_rate": 15
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 230.18,
+        "currency": "MYR",
+        "price_krw": 66753,
+        "discount_rate": 10
+      }
+    ],
+    "min_price": {
+      "platform": "Amazon US",
+      "country": "US",
+      "price": 23.3,
+      "currency": "USD",
+      "price_krw": 30292,
+      "discount_rate": 40
+    },
+    "max_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 230.18,
+      "currency": "MYR",
+      "price_krw": 66753,
+      "discount_rate": 10
+    },
+    "price_difference_krw": 36461,
+    "price_difference_pct": 54.6,
+    "num_platforms": 3
+  },
+  {
+    "product_id": 99,
+    "prices": [
+      {
+        "platform": "Qoo10 Malaysia",
+        "country": "MY",
+        "price": 122.22,
+        "currency": "MYR",
+        "price_krw": 35445,
+        "discount_rate": 40
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 18.17,
+        "currency": "USD",
+        "price_krw": 23621,
+        "discount_rate": 30
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 543.85,
+        "currency": "THB",
+        "price_krw": 20122,
+        "discount_rate": 25
+      },
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 96.52,
+        "currency": "MYR",
+        "price_krw": 27990,
+        "discount_rate": 10
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 543.85,
+      "currency": "THB",
+      "price_krw": 20122,
+      "discount_rate": 25
+    },
+    "max_price": {
+      "platform": "Qoo10 Malaysia",
+      "country": "MY",
+      "price": 122.22,
+      "currency": "MYR",
+      "price_krw": 35445,
+      "discount_rate": 40
+    },
+    "price_difference_krw": 15323,
+    "price_difference_pct": 43.2,
+    "num_platforms": 4
+  },
+  {
+    "product_id": 100,
+    "prices": [
+      {
+        "platform": "Shopee Malaysia",
+        "country": "MY",
+        "price": 162.69,
+        "currency": "MYR",
+        "price_krw": 47180,
+        "discount_rate": 20
+      },
+      {
+        "platform": "Shopee Thailand",
+        "country": "TH",
+        "price": 2078.84,
+        "currency": "THB",
+        "price_krw": 76917,
+        "discount_rate": 0
+      },
+      {
+        "platform": "Amazon US",
+        "country": "US",
+        "price": 44.87,
+        "currency": "USD",
+        "price_krw": 58332,
+        "discount_rate": 25
+      }
+    ],
+    "min_price": {
+      "platform": "Shopee Malaysia",
+      "country": "MY",
+      "price": 162.69,
+      "currency": "MYR",
+      "price_krw": 47180,
+      "discount_rate": 20
+    },
+    "max_price": {
+      "platform": "Shopee Thailand",
+      "country": "TH",
+      "price": 2078.84,
+      "currency": "THB",
+      "price_krw": 76917,
+      "discount_rate": 0
+    },
+    "price_difference_krw": 29737,
+    "price_difference_pct": 38.7,
+    "num_platforms": 3
+  }
+]

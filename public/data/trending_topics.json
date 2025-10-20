@@ -1,0 +1,182 @@
+[
+  {
+    "topic_type": "ingredient",
+    "topic_name": "히알루론산",
+    "mention_count": 76,
+    "total_views": 388853594,
+    "growth_rate": 600.0,
+    "recent_count": 7,
+    "previous_count": 1
+  },
+  {
+    "topic_type": "skin_concern",
+    "topic_name": "모공",
+    "mention_count": 224,
+    "total_views": 948368319,
+    "growth_rate": 130.0,
+    "recent_count": 23,
+    "previous_count": 10
+  },
+  {
+    "topic_type": "ingredient",
+    "topic_name": "알부틴",
+    "mention_count": 92,
+    "total_views": 444317674,
+    "growth_rate": 120.0,
+    "recent_count": 11,
+    "previous_count": 5
+  },
+  {
+    "topic_type": "skin_concern",
+    "topic_name": "민감성",
+    "mention_count": 268,
+    "total_views": 1232627128,
+    "growth_rate": 92.3,
+    "recent_count": 25,
+    "previous_count": 13
+  },
+  {
+    "topic_type": "skin_concern",
+    "topic_name": "브라이트닝",
+    "mention_count": 235,
+    "total_views": 1143313566,
+    "growth_rate": 68.8,
+    "recent_count": 27,
+    "previous_count": 16
+  },
+  {
+    "topic_type": "ingredient",
+    "topic_name": "나이아신아마이드",
+    "mention_count": 87,
+    "total_views": 434066047,
+    "growth_rate": 50.0,
+    "recent_count": 6,
+    "previous_count": 4
+  },
+  {
+    "topic_type": "skin_concern",
+    "topic_name": "여드름",
+    "mention_count": 284,
+    "total_views": 1169104168,
+    "growth_rate": 36.4,
+    "recent_count": 30,
+    "previous_count": 22
+  },
+  {
+    "topic_type": "skin_concern",
+    "topic_name": "주름",
+    "mention_count": 238,
+    "total_views": 1002179455,
+    "growth_rate": 29.4,
+    "recent_count": 22,
+    "previous_count": 17
+  },
+  {
+    "topic_type": "ingredient",
+    "topic_name": "펩타이드",
+    "mention_count": 85,
+    "total_views": 455555506,
+    "growth_rate": 22.2,
+    "recent_count": 11,
+    "previous_count": 9
+  },
+  {
+    "topic_type": "skin_concern",
+    "topic_name": "수분부족",
+    "mention_count": 268,
+    "total_views": 1115593559,
+    "growth_rate": 17.6,
+    "recent_count": 20,
+    "previous_count": 17
+  },
+  {
+    "topic_type": "ingredient",
+    "topic_name": "비타민C",
+    "mention_count": 100,
+    "total_views": 560926834,
+    "growth_rate": 16.7,
+    "recent_count": 7,
+    "previous_count": 6
+  },
+  {
+    "topic_type": "skin_concern",
+    "topic_name": "색소침착",
+    "mention_count": 253,
+    "total_views": 1275081681,
+    "growth_rate": 0.0,
+    "recent_count": 20,
+    "previous_count": 20
+  },
+  {
+    "topic_type": "ingredient",
+    "topic_name": "트라넥삼산",
+    "mention_count": 79,
+    "total_views": 436630417,
+    "growth_rate": 0.0,
+    "recent_count": 9,
+    "previous_count": 9
+  },
+  {
+    "topic_type": "ingredient",
+    "topic_name": "세라마이드",
+    "mention_count": 95,
+    "total_views": 370788304,
+    "growth_rate": 0.0,
+    "recent_count": 7,
+    "previous_count": 7
+  },
+  {
+    "topic_type": "ingredient",
+    "topic_name": "PHA",
+    "mention_count": 77,
+    "total_views": 291162606,
+    "growth_rate": 0.0,
+    "recent_count": 5,
+    "previous_count": 5
+  },
+  {
+    "topic_type": "ingredient",
+    "topic_name": "AHA",
+    "mention_count": 73,
+    "total_views": 294864652,
+    "growth_rate": -33.3,
+    "recent_count": 6,
+    "previous_count": 9
+  },
+  {
+    "topic_type": "skin_concern",
+    "topic_name": "탄력",
+    "mention_count": 254,
+    "total_views": 1161853764,
+    "growth_rate": -43.3,
+    "recent_count": 17,
+    "previous_count": 30
+  },
+  {
+    "topic_type": "ingredient",
+    "topic_name": "BHA",
+    "mention_count": 90,
+    "total_views": 390805721,
+    "growth_rate": -55.6,
+    "recent_count": 4,
+    "previous_count": 9
+  },
+  {
+    "topic_type": "ingredient",
+    "topic_name": "PDRN",
+    "mention_count": 90,
+    "total_views": 383011529,
+    "growth_rate": -58.3,
+    "recent_count": 5,
+    "previous_count": 12
+  },
+  {
+    "topic_type": "ingredient",
+    "topic_name": "레티놀",
+    "mention_count": 88,
+    "total_views": 388703997,
+    "growth_rate": -66.7,
+    "recent_count": 2,
+    "previous_count": 6
+  }
+]
